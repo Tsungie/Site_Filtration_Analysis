@@ -1,0 +1,826 @@
+﻿Province,District,DATIM_Site_Name,Support Mechanism,Facility IP,E-HR Status,Site Classification,Recency District,Facility,DATIM Site Name,DATIM Org ID,Facility ID,Province Code,District Code,Ownership,Location,Level,Status
+MANICALAND,Mutare,Zvipiripiri - 101828 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Zvipiripiri Rural Health Centre,Zvipiripiri - 101828 - Clinic,icwINxeOGNY,ZW010513,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Zvipani - 101827 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Zvipani Rural Health Centre,Zvipani - 101827 - Clinic,kBWmV90JkOu,ZW040206,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Zvimba - 101826 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Zvimba Rural Hospital,Zvimba - 101826 - Rural Hospital,AePpRuUfCzM,ZW04070G,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MASVINGO,Gutu,Zvavahera - 101824 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Zvavahera Rural Health Centre,Zvavahera - 101824 - Clinic,diROooYxyaE,ZW080409,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Gweru,Connemara - 100347 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,ZPS Connemara Prison Clinic,Connemara - 100347 - Clinic,a8GphVKSr2H,ZW070413,ZW07,,ZPS,Rural,Primary,
+MASVINGO,Chivi,Zivuku - 101812 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Zivuku Clinic,Zivuku - 101812 - Clinic,qlF46STsFVq,ZW080324,ZW08,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Nkayi,Zinyangeni - 101810 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Zinyangeni,Zinyangeni - 101810 - Rural Health Centre,uEle7GC3Lqv,ZW050529,ZW05,,,Rural,,
+MANICALAND,Mutasa,Zindi - 101807 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Zindi Clinic,Zindi - 101807 - Clinic,xRiIyDXPWV5,ZW010635,ZW01,,Rural Council,Rural,,Open
+MASVINGO,Masvingo,Zimuto BC-101885-Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Zimuto BC Clinic,Zimuto BC-101885-Clinic,l3E01g797F0,ZW080534,ZW08,,RDC,Rural,Primary,Open
+MANICALAND,Mutare,Zimunya - 101805 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Zimunya Clinic,Zimunya - 101805 - Clinic,s5QteHELIvJ,ZW010539,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,Zimbili - 101911 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Zimbili Clinic,Zimbili - 101911 - Clinic,cMnfYLDG3wb,ZW060634,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Insiza,Zhulube - 101793 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Zhulube Clinic,Zhulube - 101793 - Clinic,krUJBXgxsij,ZW060426,ZW06,,Rural Council,Rural,,
+MIDLANDS,Kwekwe,Zhombe - 101792 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Zhombe Mission Hospital,Zhombe - 101792 - Mission Clinic,RgkNZppVRq4,ZW07050C,ZW07,,Mission,Rural,Secondary,
+MASHONALAND EAST,Seke,Zhakata - 101788 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Zhakata Rural Health Centre,Zhakata - 101788 - Rural Health Centre,chIGBlc6iFM,ZW030902,ZW03,,Government,Rural,clinic,Active
+MATEBELELAND SOUTH,Beitbridge,Zezane - 101787 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Zezani Clinic,Zezane - 101787 - Clinic,T9MjXsATFab,ZW060131,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Nkayi,Zenka - 101785 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Zenka Rural Health Centre,Zenka - 101785 - Rural Health Centre,S8UmuTF3pVu,ZW050506,ZW05,,Government,Rural,Primary,Open
+HARARE,Harare,Arcadia - 100015 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Arcadia Clinic,Arcadia - 100015 - Clinic,xF2C4VhTlZh,ZW000A02,ZW00,,Town/City Council,Urban,Primary,
+MASVINGO,Masvingo,Zano - 101781 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Zano Clinic,Zano - 101781 - Clinic,RPaFuf61WaI,ZW080536,ZW08,,RDC,Rural,Primary,Open
+HARARE,Harare,Avondale - 100030 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Avondale Clinic,Avondale - 100030 - Clinic,XY1ZmfDOMmZ,ZW000A01,ZW00,,Town/City Council,Urban,Primary,
+MANICALAND,Makoni,Weya - 101774 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Weya Rural Hospital,Weya - 101774 - Rural Hospital,nrMK5a1kkjl,ZW01040B,ZW01,,Government,Rural,Primary ,Open
+HARARE,Harare,Beatrice Infectious - 100050 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Beatrice Road Infectious Diseases Hosp,Beatrice Infectious - 100050 - Hospital,mn3hlUZz8Hy,ZW000A0C,ZW00,,Town/City Council,Urban,,
+MATEBELELAND SOUTH,Gwanda,West Nicolson - 101772 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,West Nicholson Clinic,West Nicolson - 101772 - Clinic,cUPFcuov2Fc,ZW060382,ZW06,,Government,Peri-Urban,,
+MASHONALAND EAST,Marondera,Wenimbe - 101771 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Wenimbi Rural Health Centre,Wenimbe - 101771 - Rural Health Centre,SNzJDnz5e9q,ZW030506,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Sanyati,Waverly - 101764 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Waverly Municipal Clinic,Waverly - 101764 - Clinic,oiEL7cgDRNN,ZW040639,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Chegutu,Watyoka - 101763 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Watyoka Clinic,Watyoka - 101763 - Council Clinic,ZlGUHP6gHLu,ZW040130,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,Waterloo - 101762 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Murewa,Waterloo Clinic,Waterloo - 101762 - Clinic,WdsXmSQA2PZ,ZW030747,ZW03,,Rural Council,Rural,clinic,Active
+MIDLANDS,Mberengwa,Wanezi - 101758 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Wanezi Mission Hospital,Wanezi - 101758 - Clinic,b3PU8AeeaQC,ZW070607,ZW06,,Mission,Rural,,
+MIDLANDS,Mberengwa,Vutsanana - 101754 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Vutsanana,Vutsanana - 101754 - Clinic,nyYPQGMntMU,ZW070641,ZW07,,,Rural,,
+MIDLANDS,Mberengwa,Vurasha - 101753 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Vurasha Rural Health Centre,Vurasha - 101753 - Rural Health Centre,Ffe71rF6iVh,ZW070606,ZW07,,Government,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Vonabor - 101744 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,VONABO,Vonabor - 101744 - Clinic,RLoROPMeESW,ZW020411,ZW02,,Council,Farming,Primary,Open
+MASHONALAND EAST,Murehwa,Virginia Clinic - 101742 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Virginia Clinic,Virginia Clinic - 101742 - Clinic,dsOsw05zvg2,ZW030746,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Bulilima,Village 13 - 101741 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Village 13 Rural Health Centre,Village 13 - 101741 - Rural Health Centre,dSsH9yE0duM,ZW060201,ZW06,,Government,Rural,,
+MASHONALAND WEST,Sanyati,Vere - 101735 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Sanyati,Vere - 101735 - Rural Health Centre,Vere - 101735 - Rural Health Centre,HqZLZbZmU4r,ZW040609,ZW04,,,Rural,,
+MANICALAND,Makoni,Vengere - 101733 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Vengere Clinic,Vengere - 101733 - Clinic,bkpJdhMUWKf,ZW010442,ZW01,,Town/City Council,Urban,Primary ,Open
+MANICALAND,Chipinge,Vheneka - 101737 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Veneka Clinic,Vheneka - 101737 - Clinic,nNmjZD0Xkbi,ZW010336,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Umguza,Muntu - 101108 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Umuntu Clinic,Muntu - 101108 - Clinic,jXKl5XSgHA7,ZW050798,ZW05,,Town/City Council,Rural,Primary,Open
+MATEBELELAND NORTH,Umguza,Umguza Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Umguza Council Clinic ,Umguza Council Clinic,dBTOp92WekL,ZW050750,ZW05,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Makonde,Umboe - 101724 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Umboe RDC Clinic,Umboe - 101724 - Clinic,kaqOR3BnVSQ,ZW040448,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Twin Tops - 101722 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Twintops RDC Clinic,Twin Tops - 101722 - Clinic,keqEqznmGNE,ZW040525,ZW04,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Bubi,Turk Mine - 101720 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Turk Mine Clinic,Turk Mine - 101720 - Mine Clinic,d7pGOe2ANHF,ZW050257,ZW05,,Mine,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Turf - 101719 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Turf Estate RDC Clinic,Turf - 101719 - Council Clinic,mCZQYXcx1VM,ZW040524,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Tsungubvi - 101717 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,TSUNGUBVI,Tsungubvi - 101717 - Clinic,ZCCRwjCDbaM,ZW020447,ZW02,,Council,Urban,Primary,Open
+MANICALAND,Mutasa,Tsonzo - 101714 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Tsonzo Rural Hospital,Tsonzo - 101714 - Rural Hospital,xBQLT1WFHR7,ZW01060A,ZW01,,Government,Rural,,Open
+MASHONALAND EAST,UMP,Tsokodeka clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Tsokodeka clinic,Tsokodeka clinic,IDPxxc6H5rJ,ZW030339,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Chiredzi,Tsovani - 101715 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Tshovani Clinic,Tsovani - 101715 - Clinic,g7P5iJOCBdW,ZW080233,ZW08,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Tsholotsho Urban - 101667 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Tsholotsho Urban Clinic,Tsholotsho Urban - 101667 - Clinic,VCTLI8U4D5z,ZW050631,ZW05,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Tsholotsho - 101713 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Tsholotsho District Hospital,Tsholotsho - 101713 - District Hospital,enrbUoAll43,ZW05060A,ZW05,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Mangwe,Tshitshi - 101712 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Tshitshi Clinic,Tshitshi - 101712 - Clinic,FjN22JqEC4D,ZW060732,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Matobo,Tshelanyemba - 101711 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Tshelanyemba Mission Hospital,Tshelanyemba - 101711 - Mission Hospital,wa7S2vIGgVg,ZW06050D,ZW06,,Mission,Rural,,
+Bulawayo,Bulawayo,Tshabalala - 101710 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Tshabalala Clinic,Tshabalala - 101710 - Clinic,AU3HqiX44Iu,ZW090A02,ZW09,,Town/City Council,Urban,Primary,Open
+MANICALAND,Makoni,Tsanzaguru - 101709 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Tsanzaguru Clinic,Tsanzaguru - 101709 - Clinic,avJBKspv9hU,ZW010436,ZW01,,Rural Council,Urban,Primary ,Open
+MASHONALAND CENTRAL,Mt Darwin,Tsakare - 101708 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,TSAKARE,Tsakare - 101708 - Clinic,jWZDHuWQL6K,ZW020506,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Trelawney - 101704 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Trelawney RDC Clinic,Trelawney - 101704 - Council Clinic,fyCd86t36uQ,ZW040748,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MASHONALAND WEST,Zvimba,TRBC - 101703 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,TRB RDC Clinic,TRBC - 101703 - Council Clinic,xwXASQ58xET,ZW040747,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MIDLANDS,Kwekwe,Torwood - 101700 - Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Torwood Clinic,Torwood - 101700 - Hospital,N9VWu2Kppre,ZW070554,ZW07,,Town/City Council,Urban,Primary,
+MANICALAND,Makoni,Tariro - 101680 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Toriro Clinic,Tariro - 101680 - Clinic,SISBOCPkjkv,ZW010435,ZW01,,Rural Council,Rural,Primary ,Open
+MATEBELELAND SOUTH,Beitbridge,Tongwe - 101696 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Tongwe Clinic,Tongwe - 101696 - Clinic,FHW8J9cVHxt,ZW060130,ZW06,,Rural Council,Rural,,
+MIDLANDS,Gokwe South,Tongwe - 101697 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Tongwe Clinic,Tongwe - 101697 - Clinic,w1k2xD78mUR,ZW070339,ZW07,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Bulilima,Tokwana - 101907 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Tokwana Clinic,Tokwana - 101907 - Clinic,O4kX8ajY1Lp,ZW060236,ZW06,,Rural Council,Rural,,
+Bulawayo,Bulawayo,Thorngrove,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Thorngrove Infectious Diseases Hospital,Thorngrove,I1dsyC5hnKJ,ZW090A0E,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Umguza,T.G. Silundika - 101668 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,TG Silundika Clinic,T.G. Silundika - 101668 - Rural Health Centre,plc6BXsQkp0,ZW050781,ZW05,,Private,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Tengwe - 101886 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Tengwe Clinic,Tengwe - 101886 - Clinic,z0mAJulIVSB,ZW040249,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Makoni,Tandi - 101678 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Tandi Clinic,Tandi - 101678 - Clinic,QHVCAkeXCog,ZW010434,ZW01,,Rural Council,Rural,Primary ,Open
+MASVINGO,Zaka,Svuvure - 101665 - Rural Health Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Svuure Rural Health Centre,Svuvure - 101665 - Rural Health Hospital,USZm9peQXTh,ZW080704,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Mberengwa,Svita - 101664 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Svita Clinic,Svita - 101664 - Clinic,V1UPlYfZT1D,ZW070637,ZW07,,Rural Council,Rural,Primary,Open
+MIDLANDS,Gokwe South,Svisvi - 101663 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Svisvi Clinic,Svisvi - 101663 - Rural Health Centre,V3ZLerPguLB,ZW070311,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND WEST,Zvimba,Sutton - 101661 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Sutton RDC Clinic,Sutton - 101661 - Mine Clinic,FsRYRzS6zYQ,ZW040777,ZW04,,Rural Council,Peri-Urban,Primary,MINING
+MASHONALAND CENTRAL,Mazowe,Suoguru Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,SUOGURU,Suoguru Clinic,un5X8B0qP2w,ZW020488,ZW02,,Council,Urban,Primary,Open
+MANICALAND,Makoni,St. Theresa - 101640 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,St Therese's Mission Hospital,St. Theresa - 101640 - Mission Hospital,X8eNcHrqP3q,ZW01040F,ZW01,,Mission,Rural,Primary ,Open
+MASHONALAND WEST,Makonde,St. Rupert's - 101650 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,St Rupert's Mission Hospital,St. Rupert's - 101650 - Mission Hospital,p98IRYc0Y2A,ZW04040B,ZW04,,Mission,Rural,Secondary,Open
+MANICALAND,Chipinge,St. Peters - 101648 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,St Peters Hospital,St. Peters - 101648 - Mission Hospital,uj8ctjqnN8U,ZW01030D,ZW01,,Mission,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,St. Paul's Musami - 101638 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Murewa,St Paul's Musami Mission Hospital,St. Paul's Musami - 101638 - Mission Hospital,IV1N9v5bKiL,ZW03070B,ZW03,,Mission,Rural,Mission Hospital,Active
+MATEBELELAND NORTH,Lupane,St. Pauls - 101647 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Lupane,St Paul's Mission Hospital,St. Pauls - 101647 - Mission Hospital,q5VjJBFUXw8,ZW05040A,ZW05,,Town/City Council,Rural,Secondary,Open
+MIDLANDS,Gweru,St. Patricks - 101636 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,ST Patricks,St. Patricks - 101636 - Mission Clinic,yy7YQ1Iak4s,ZW070492,ZW07,,,Rural,,
+MANICALAND,Makoni,St. Michael's - 101635 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,St Michael's Tanda Mission Hospital,St. Michael's - 101635 - Mission Hospital,ldxZ72IIbir,ZW01040E,ZW01,,Mission,Rural,Primary ,Open
+MASHONALAND WEST,Mhondoro,St. Michaels - 101646 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Mhondoro,St Michael's Mission Hospital,St. Michaels - 101646 - Mission Hospital,OXgwxM8Md7I,ZW04050B,ZW04,,Mission,Rural,Secondary,Open
+HARARE,Harare,Belvedere - 100055 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Belvedere Poly clinic,Belvedere - 100055 - Poly clinic,M7zzw7p5tFf,ZW000A05,ZW00,,,Urban,,
+MATEBELELAND NORTH,Lupane,St. Lukes - 101645 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Lupane,St Luke's Mission Hospital,St. Lukes - 101645 - Mission Hospital,KXpRiO1yWzB,ZW05040B,ZW05,,Mission,Rural,Secondary,Open
+MATEBELELAND SOUTH,Matobo,St. Joseph's - 101644 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,St Joseph's Mission Hospital,St. Joseph's - 101644 - Rural Hospital,XVUGfE4rVxG,ZW06050E,ZW06,,Mission,Rural,,
+MANICALAND,Mutare,St. Joseph's - 101632 - T.B Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,St Josephs Mission Hospital,St. Joseph's - 101632 - T.B Hospital,tYA7jF9AfGD,ZW01050G,ZW01,,Mission,Urban,Secondary,Open
+MASHONALAND EAST,Goromonzi,St. Joseph's - 101631 - Rural Health centre,PEPFAR,ZACH,ACTIVE,Health facility,Goromonzi,St Joseph's Clinic,St. Joseph's - 101631 - Rural Health centre,Kmet2URjvwM,ZW030252,ZW03,,Mission,Peri-Urban,clinic,Active
+MANICALAND,Mutasa,St. Augustine's - 101627 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,St Augustine's Clinic,St. Augustine's - 101627 - Mission Clinic,B6T4mymKXpD,ZW010693,ZW01,,Mission,Rural,,Open
+MATEBELELAND SOUTH,Mangwe,St. Annes Brunapeg - 101642 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,St Annes Mission Hospital (Brunapeg),St. Annes Brunapeg - 101642 - Mission Hospital,HWtwaa3MidK,ZW06070D,ZW06,,Mission,Rural,,
+MANICALAND,Mutare,St. Andrew's - 101624 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,St Andrew's Mission Hospital,St. Andrew's - 101624 - Mission Hospital,RXChmJ29yIG,ZW01050F,ZW01,,Mission,Rural,Secondary,Open
+MASHONALAND EAST,UMP,Sowa - 101620 - Rural Health centre,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Sowa Rural Health Centre,Sowa - 101620 - Rural Health centre,cuSVNGhbKpS,ZW030303,ZW03,,Government,Rural,clinic,Active
+MIDLANDS,Gweru,Somabula - 101613 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Somabhula Clinic,Somabula - 101613 - Clinic,cY93Nr1gwjo,ZW070445,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Bulilima,Solusi - 101612 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Solusi Mission Clinic,Solusi - 101612 - Clinic,L0BhteRCV93,ZW060291,ZW06,,Mission,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Sodaka - 101611 - Rural Health centre,PEPFAR,ZACH,ACTIVE,Health facility,Tsholotsho,Sodaka Rural Health Centre,Sodaka - 101611 - Rural Health centre,AwLcEg2hZca,ZW050606,ZW05,,Government,Rural,Primary,Open
+MASVINGO,Zaka,Siyawareva - 101609 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Siyawareva Clinic,Siyawareva - 101609 - Clinic,IZd8YJZuStE,ZW080737,ZW08,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Sipepa - 101605 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Siphepha Rural Hospital,Sipepa - 101605 - Rural Hospital,d6Y01SZZoLz,ZW05060B,ZW05,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Insiza,Singwango - 101603 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Singwango Clinic,Singwango - 101603 - Clinic,YAoTF1MIrjU,ZW060425,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Insiza,Singwambizi - 101602 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Singwambizi Clinic,Singwambizi - 101602 - Clinic,ec12kvcjS7E,ZW060427,ZW06,,Rural Council,Rural,,
+MIDLANDS,Kwekwe,Simana - 101595 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Simana Clinic,Simana - 101595 - Clinic,ozA3NlEUYDi,ZW070534,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Matobo,Silozwi Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Silozwi,Silozwi Clinic,vDYNQpQFm21,ZW060507,ZW06,,Town/City Council,Rural,,
+MIDLANDS,Kwekwe,Silobela-Jackson - 101871 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Silobela Jackson Clinic,Silobela-Jackson - 101871 - Clinic,rUINnsV4knE,ZW070533,ZW07,,Rural Council,Rural,Primary,
+MIDLANDS,Kwekwe,Silobela - 101590 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Silobela District Hospital,Silobela - 101590 - District Hospital,V9SM8e6sFIW,ZW07050B,ZW07,,Government,Rural,Secondary,
+MATEBELELAND SOUTH,Gwanda,Silkwe - 101589 - Rural Health centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Silikwe Clinic,Silkwe - 101589 - Rural Health centre,lq1a53Zl3Gn,ZW060368,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Nkayi,Sikobokobo - 101587 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Nkayi,Sikobokobo,Sikobokobo - 101587 - Clinic,mnQNqs9EkZ1,ZW050528,ZW05,,,Rural,,
+MATEBELELAND SOUTH,Bulilima,Sikhatini - 101585 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Sikhathini Clinic,Sikhatini - 101585 - Clinic,mb8xNkQoiuv,ZW060231,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Sikente - 101584 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Sikente Clinic,Sikente - 101584 - Clinic,asE3X2E5zns,ZW050698,ZW05,,Town/City Council,Rural,Primary,Open
+MATEBELELAND NORTH,Bubi,Siganda - 101578 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Siganda Clinic,Siganda - 101578 - Rural Health Centre,u4ZGqUHSJmi,ZW050226,ZW05,,Rural Council,Rural,Primary,Open
+MIDLANDS,Kwekwe,Sidakeni - 101579 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Sidakeni Clinic,Sidakeni - 101579 - Clinic,fBCkowl14OR,ZW070532,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND CENTRAL,Mazowe,Shutu - 101571 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,SHUTU,Shutu - 101571 - Clinic,w5SRCyjcVN1,ZW020403,ZW02,,Gvt,Rural,Primary,Open
+MASVINGO,Masvingo,Shumba - 101569 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Shumba Clinic,Shumba - 101569 - Clinic,P6v8ImHzR3c,ZW080533,ZW08,,Rural Council,Rural,Clinic,Active
+MASHONALAND CENTRAL,Mazowe,Shopo - 101567 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,SHOPO,Shopo - 101567 - Clinic,U9Bsddm43lC,ZW020487,ZW02,,Gvt,Rural,Primary,Open
+MASVINGO,Masvingo,Shonganiso - 101566 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Shonganiso Clinic,Shonganiso - 101566 - Clinic,Ktj9CxKCM5h,ZW080592,ZW08,,Mission,Rural,Primary,Open
+MASVINGO,Chivi,Shindi - 101562 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Shindi Satellite Clinic,Shindi - 101562 - Clinic,ZjbT0mVOxhT,ZW080328,ZW08,,Rural Council,Rural,Primary,Open
+MIDLANDS,Kwekwe,Sherwood - 101561 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Sherwood Clinic,Sherwood - 101561 - Clinic,GicGwiouuoj,ZW070566,ZW07,,Rural Council,Urban,Primary,
+MATEBELELAND SOUTH,Insiza,Shangani - 101557 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Shangani Rural Hospital,Shangani - 101557 - Rural Hospital,xGshYPXKdF6,ZW06040B,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Insiza,Shangani - 101556 - Mine Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Shangani Clinic,Shangani - 101556 - Mine Clinic,ohXsGJeKhB4,ZW060477,ZW06,,Private,Rural,,
+MASHONALAND EAST,Murehwa,Shambamuto - 101550 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Shambamuto Rural Health Centre,Shambamuto - 101550 - Clinic,VLPYm5c0jgN,ZW030729,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Umzingwane,Shale Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Shale Clinic,Shale Clinic,ZW060636,ZW060636,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Beitbridge,Shabwe - 101548 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Shabwe Rural Health Centre,Shabwe - 101548 - Rural Health Centre,RvZ2KNZoPql,ZW060106,ZW06,,Government,Rural,,
+MIDLANDS,Gokwe South,Sesame - 101543 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Sessame Clinic,Sesame - 101543 - Clinic,k0ZyBtS4wZT,ZW070396,ZW07,,Mission,Rural,Primary,
+MATEBELELAND NORTH,Nkayi,Sesemba - 101545 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Sesemba Clinic,Sesemba - 101545 - Rural Health Centre,oQY8tDXHTRv,ZW050534,ZW05,,Town/City Council,Rural,Primary,Open
+MASVINGO,Gutu,Serima - 101542 - Mission Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Serima Mission Hospital,Serima - 101542 - Mission Hospital,TzcYG8P3r5t,ZW080491,ZW08,,Mission,Rural,Secondary,Open
+MIDLANDS,Kwekwe,Senkwasi - 101541 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Senkwazi Clinic,Senkwasi - 101541 - Clinic,VZxPjFpaeGG,ZW070531,ZW07,,Rural Council,Rural,Primary,
+MIDLANDS,Gweru,Senga Poly - 101538 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Senga Clinic,Senga Poly - 101538 - Clinic,iEaTUEi6wdx,ZW070467,ZW07,,Town/City Council,Urban,Primary,
+MASHONALAND WEST,Chegutu,Selous - 101537 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Selous Clinic,Selous - 101537 - Council Clinic,XetOsDWPjg2,ZW040133,ZW04,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Gwanda,Selonga - 101536 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Selonga Clinic,Selonga - 101536 - Rural Health Centre,mQbanvNia3z,ZW060363,ZW06,,Rural Council,Rural,,
+HARARE,Harare,Borrowdale - 100086 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Borrowdale Clinic,Borrowdale - 100086 - Clinic,OTxAHTpF4h8,ZW000A07,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Braeside - 100091 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Braeside FHS Clinic,Braeside - 100091 - Clinic,d46RVdpyvCT,ZW000A08,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND SOUTH,Insiza,Saphila - 101530 - Council Clinic(Construction),PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Saphila RDC,Saphila - 101530 - Council Clinic(Construction),wzZvw0u6fe2,ZW060429,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Mangwe,SANZUKWI - 101529 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Sanzukwi Clinic,SANZUKWI - 101529 - Clinic,Bk03KuutZss,ZW060733,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Sanyati,Sanyati ARDA - 101861 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Sanyati RDC Clinic,Sanyati ARDA - 101861 - Clinic,esbcJZ4OrBM,ZW040625,ZW04,,,Rural,,
+MASHONALAND WEST,Sanyati,Sanyati - 101527 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Sanyati,Sanyati Mission Hospital,Sanyati - 101527 - Mission Hospital,xDDGSZFaGY5,ZW04060C,ZW04,,Mission,Rural,Primary,Open
+MATEBELELAND SOUTH,Matobo,Sankonjana - 101525 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Sankonjane Rural Health Centre,Sankonjana - 101525 - Rural Health Centre,khHSytZaECG,ZW060502,ZW06,,Government,Rural,,
+MANICALAND,Makoni,Sangano - 101523 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Sangano Clinic,Sangano - 101523 - Clinic,YXs6Sw0yceC,ZW010447,ZW01,,Rural Council,Rural,Primary ,Open
+MASHONALAND WEST,Chegutu,Sandringham - 101522 - Mission Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Chegutu,Sandringham Clinic,Sandringham - 101522 - Mission Clinic,Bn9NTXkQnQd,ZW040134,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Sandringham Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mazowe,SANDRINGHAM,Sandringham Clinic,WaW7DWsJvpp,ZW020489,ZW02,,Council,Farming,Primary,Open
+MIDLANDS,Mberengwa,Sandawana - 101521 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Sandawana Clinic,Sandawana - 101521 - Clinic,iSTR4XRC1dk,ZW070678,ZW07,,Mine,Rural,Primary,Open
+MATEBELELAND SOUTH,Insiza,Sanale - 101520 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Sanale Rural Health Centre,Sanale - 101520 - Rural Health Centre,Adc2S4HRzAf,ZW060407,ZW06,,Government,Rural,,
+MIDLANDS,Kwekwe,Samambwa - 101514 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Samambwa,Samambwa - 101514 - Clinic,n8fSBgAncxp,ZW070530,ZW07,,,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Samahuru - 101513 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Tsholotsho,Samahuru Mission Clinc,Samahuru - 101513 - Clinic,IBDCM3Pjxhj,ZW050633,ZW05,,Mission,Rural,Primary,Open
+MANICALAND,Mutare,Sakubva - 101510 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Sakubva District Hospital,Sakubva - 101510 - District Hospital,IVF9iD8sboV,ZW01050C,ZW01,,Government,Urban,Secondary,Open
+MASHONALAND WEST,Chegutu,Rwizi - 101499 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Rwizi Clinic,Rwizi - 101499 - Council Clinic,Migf18JdenY,ZW040129,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Ruwa Rehabilitation  - 101495 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Ruwa Rehab,Ruwa Rehabilitation  - 101495 - Hospital,NsK79SSE0GY,ZW03020C,ZW03,,Government,Peri-Urban,Hospital,Active
+MASHONALAND EAST,Goromonzi,Ruwa - 101493 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Ruwa PolyClinic,Ruwa - 101493 - Rural Health Centre,egbFP3Ii5TM,ZW030273,ZW03,,Rural Council,Peri-Urban,clinic,Active
+MASVINGO,Mwenezi,Rutenga - 101488 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Rutenga Clinic,Rutenga - 101488 - Clinic,KSeMcOy1Blg,ZW080606,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Kwekwe,Rutendo - 101487 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Rutendo Clinic,Rutendo - 101487 - Clinic,nCBpV7ktT9y,ZW070564,ZW07,,Town/City Council,Urban,Primary,
+MASHONALAND EAST,Goromonzi,Rusike - 101479 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Goromonzi,Rusike Clinic,Rusike - 101479 - Clinic,CCpDmry9NxC,ZW030249,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Makoni,Rusape - 101477 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Rusape District Hospital,Rusape - 101477 - District Hospital,VUl74f1phMs,ZW01040A,ZW01,,,Urban,,
+MASVINGO,Chiredzi,Rapanguwana - 101442 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Rupangwana Clinic,Rapanguwana - 101442 - Clinic,uh35NSt2dAR,ZW080230,ZW08,,Rural Council,Rural,Primary,Open
+MASVINGO,Masvingo,Runyararo North West Council Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Runyararo Clinic,Runyararo North West Council Clinic,j0Sp4T1CCZR,ZW080583,ZW08,,City Council,Urban,Primary,Open
+MASHONALAND WEST,Makonde,Runene  - 101472 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,Runene RDCClinic,Runene  - 101472 - Council Clinic,rpzMXRyqrJX,ZW040433,ZW04,,,Rural,,
+MANICALAND,Makoni,Rukweza - 101471 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Rukweza Clinic,Rukweza - 101471 - Clinic,eqUVN5CpzeZ,ZW010433,ZW01,,Rural Council,Rural,Primary ,Open
+MASVINGO,Masvingo,Rukovo - 101470 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Rukovo Clinic,Rukovo - 101470 - Clinic,epPROUCXfAX,ZW080532,ZW08,,RDC,Rural,Primary,Open
+MASVINGO,Masvingo,Rujeko - 101468 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Rujeko Clinic,Rujeko - 101468 - Clinic,wQ9HjnprvIf,ZW080582,ZW08,,City Council,Urban,Primary,Open
+MIDLANDS,Gweru,Ruby - 101464 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Rubi Clinic,Ruby - 101464 - Clinic,hRFRshSksyR,ZW070423,ZW07,,Rural Council,Rural,Primary,
+MANICALAND,Mutare,Rowa - 101461 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Rowa Clinic,Rowa - 101461 - Clinic,mMyO9i8yO9f,ZW010537,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Rosa - 101459 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,ROSA,Rosa - 101459 - Rural Hospital,UgkN2CKy5vw,ZW02040B,ZW02,,Gvt,Rural,Primary,Open
+MIDLANDS,Kwekwe,Rio Tinto - 101455 - Mine Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Rio Tinto Clinic,Rio Tinto - 101455 - Mine Clinic,RIBxxUnvvQD,ZW070552,ZW07,,Mine,Urban,Primary,
+MASHONALAND WEST,Sanyati,Rimuka - 101452 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Rimuka Municipal Clinic,Rimuka - 101452 - Clinic,IsQV9DqeQUB,ZW040361,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Sanyati,Rimuka MCH Municipal Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Rimuka MCH Municipal Clinic,Rimuka MCH Municipal Clinic,qEDMf2epK2V,ZW040637,ZW04,,Town/City Council,Urban,Primary,Open
+MANICALAND,Chipinge,Rimbi - 101451 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Rimbi Clinic,Rimbi - 101451 - Clinic,IAxIHwuKmli,ZW010335,ZW01,,Rural Council,Rural,Primary,Open
+MASVINGO,Masvingo,Renco - 101449 - Mine Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Renco Mine Clinic,Renco - 101449 - Mine Clinic,qU8ZCeQVNaR,ZW080576,ZW08,,Mine,Rural,Primary,Open
+MIDLANDS,Kwekwe,Redcliff - 101446 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Redcliff Clinic,Redcliff - 101446 - Clinic,lr8nRgvCs8m,ZW070559,ZW07,,Town/City Council,Urban,Primary,
+MASVINGO,Chivi,Razi - 101444 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Razi Rural Health Centre,Razi - 101444 - Rural Health Centre,n4tZ9FiLuGP,ZW080305,ZW08,,Government,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Raffingora - 101437 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Raffingora Rural Hospital,Raffingora - 101437 - Rural Hospital,Adrn5wepICh,ZW04070D,ZW04,,Government,Peri-Urban,Primary,RURAL
+Bulawayo,Bulawayo,Pumula South - 101434 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Pumula South Clinic,Pumula South - 101434 - Clinic,zhkFyAbgMc2,ZW090A35,ZW09,,Town/City Council,Urban,Primary,Open
+Bulawayo,Bulawayo,Pumula - 101432 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Pumula Clinic,Pumula - 101432 - Clinic,bTFUZdQpl2O,ZW090A13,ZW09,,Town/City Council,Urban,Primary,Open
+Bulawayo,Bulawayo,Princess Margaret - 101429 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Princess Margaret Clinic,Princess Margaret - 101429 - Clinic,sTQ6BFy94pp,ZW090A12,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Plumtree - 101417 - District Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Plumtree District Hospital,Plumtree - 101417 - District Hospital,RFTwaeEoUqu,ZW06070A,ZW06,,Government,Urban,,
+MATEBELELAND NORTH,Tsholotsho,Pumula - 101433 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Tsholotsho,Phumula Mission Hospital,Pumula - 101433 - Mission Hospital,jlt9Wk07kKl,ZW05060C,ZW05,,Mission,Rural,Secondary,Open
+MATEBELELAND SOUTH,Gwanda,Pakama - 101403 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Phakama Clinic,Pakama - 101403 - Clinic,zrlHTputbK4,ZW060362,ZW06,,Town/City Council,Urban,,
+MASHONALAND WEST,Chegutu,Pfupajena - 101416 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Pfupajena Munic Clinic,Pfupajena - 101416 - Council Clinic,EASWD2odoBX,ZW040161,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Pfunyanguwo - 101414 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,PFUNYANGUWO,Pfunyanguwo - 101414 - Clinic,eoHWqHUmH4z,ZW020505,ZW02,,GOVERNMENT,Rural,Primary,Open
+Bulawayo,Bulawayo,Pelandaba - 101412 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Pelandaba Clinic,Pelandaba - 101412 - Clinic,OnysnioygHR,ZW090A11,ZW09,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Sanyati,Patchway - 101408 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Patchway RDC Clinic,Patchway - 101408 - Mine Clinic,shA3RikpDNe,ZW040624,ZW04,,Rural Council,Peri-Urban,Primary,Open
+MANICALAND,Chipinge,Paidamoyo - 101402 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Paidamoyo Rural Health Centre,Paidamoyo - 101402 - Clinic,JrkEzV0EXrw,ZW010312,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Chegutu,Padre Pio Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Padre Pio Poly Clinic,Padre Pio Poly Clinic,GROS5u0jUHX,ZW040189,ZW04,,Mission,Urban,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Pachanza - 101400 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,PACHANZA,Pachanza - 101400 - Clinic,jqIsEfJhMfz,ZW020528,ZW02,,COUNCIL,Rural,Primary,Open
+HARARE,Epworth,Overspill - 101399 - Satellite Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Overspill Clinic,Overspill - 101399 - Satellite Clinic,QTYLtlbWtEc,ZW030927,ZW03,,Town/City Council,Urban,clinic,Active
+MASHONALAND WEST,Sanyati,Ordoff - 101398 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Ordoff RDC Clinic,Ordoff - 101398 - Council Clinic,syAdkEdGSLS,ZW040623,ZW04,,Rural Council,Peri-Urban,Primary,Open
+MANICALAND,Mutare,Odzi - 101395 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Odzi Clinic,Odzi - 101395 - Rural Hospital,FTXaJPvQwkN,ZW010538,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Nzvimbo - 101391 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,NZVIMBO,Nzvimbo - 101391 - Clinic,nwJAtSNTFBZ,ZW020432,ZW02,,Council,Rural,Primary,Open
+MANICALAND,Mutare,Nzvenga - 101390 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Nzvenga Clinic,Nzvenga - 101390 - Clinic,gzDYRQZm5rr,ZW010536,ZW01,,Rural Council,Rural,Primary,Open
+MIDLANDS,Kwekwe,Nyoni - 101387 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Nyoni Rural Health Centre,Nyoni - 101387 - Rural Health Centre,DFCkzGef5fF,ZW070505,ZW07,,Government,Rural,Primary,
+MASVINGO,Masvingo,Nyikavanhu - 101386 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Nyikavanhu Rural Health Centre,Nyikavanhu - 101386 - Rural Health Centre,EQMIsSwYCJE,ZW080507,ZW08,,Govt,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Nyembanzvere - 101383 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Nyembanzvere Council Clinic,Nyembanzvere - 101383 - Clinic,Nrsc0aw1ptH,ZW030563,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Makoni,Nyazura - 101381 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Nyazura Mission Clinic,Nyazura - 101381 - Mission Clinic,VKhKIdCsAHA,ZW010491,ZW01,,Mission,Rural,Primary ,Open
+MANICALAND,Makoni,Nyazura -101854- Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Nyazura Clinic,Nyazura -101854- Clinic,wHqZbOi222z,ZW010427,ZW01,,Rural Council,Urban,Primary ,Open
+MANICALAND,Buhera,Nyashanu - 101375 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Nyashanu,Nyashanu - 101375 - Rural Hospital,O3Eqk96OQ4D,ZW01010D,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Sanyati,Nyaonde - 101371 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Nyaonde - 101371 - Rural Health Centre,Nyaonde - 101371 - Rural Health Centre,B7j2gqFqAt0,ZW040607,ZW04,,,Rural,,
+MASHONALAND EAST,UMP,Nyanzou - 101370 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Nyanzou Clinic,Nyanzou - 101370 - Clinic,nNRTd83agCR,ZW030336,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Chiredzi,Nyangambe - 101365 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Nyangambe Rural Health Centre,Nyangambe - 101365 - Clinic,qvDZsNpDxFc,ZW080210,ZW08,,Government,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,Nyamutumbu - 101358 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Nyamutumbu Rural Health Centre,Nyamutumbu - 101358 - Clinic,kZhh1BmkC6d,ZW030728,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Insiza,Nyamime - 101351 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Nyamime Rural Health Centre,Nyamime - 101351 - Rural Health Centre,LAGfgfyUDwT,ZW060406,ZW06,,Government,Rural,,
+MANICALAND,Makoni,Nyamidzi - 101350 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Nyamidzi Clinic,Nyamidzi - 101350 - Clinic,onNuwP6Pfw4,ZW010431,ZW01,,Rural Council,Rural,Primary ,Open
+MASHONALAND WEST,Hurungwe,Nyamhunga - 101348 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Nyamhunga,Nyamhunga - 101348 - Council Clinic,Itle0p7dUtu,ZW040229,ZW04,,,Rural,,
+MASHONALAND EAST,Marondera,Nyameni - 101344 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Nyameni Council Clinic,Nyameni - 101344 - Clinic,zfgVw4bp8ku,ZW030562,ZW03,,Town/City Council,Urban,clinic,Active
+MASHONALAND CENTRAL,Mbire,Nyambudzi - 101343 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Nyambudzi Clinic,Nyambudzi - 101343 - Rural Health Centre,sYhGVMgX7PK,ZW020835,ZW02,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Nyamazura - 101342 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Nyamazura Rural Health Centre,Nyamazura - 101342 - Rural Health Centre,Aw9meXkMQYK,ZW010512,ZW01,,Government,Rural,Primary,Open
+MATEBELELAND NORTH,Umguza,Nyamandlovu - 101332 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Nyamandlovu District Hospital,Nyamandlovu - 101332 - Hospital,KlK6kqKkceZ,ZW05070A,ZW05,,Government,Rural,Secondary,Open
+MASVINGO,Masvingo,Nyamande - 101330 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Nyamande Clinic,Nyamande - 101330 - Clinic,v5kcc0wO1Rj,ZW080542,ZW08,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Hurungwe,Nyamakaze - 101329 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Nyamakate Clinic,Nyamakaze - 101329 - Clinic,YErstr7uJhc,ZW040228,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Nyamahobobo - 101328 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,NYAMAHOBOGO,Nyamahobobo - 101328 - Clinic,dXCma1MqYIS,ZW020504,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Nyama - 101327 - Council,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Nyama clinic,Nyama - 101327 - Council,Krolm8Hf65t,ZW040236,ZW04,,Rural Council,Rural,Primary,Open
+MIDLANDS,Gweru,Nyama - 101326 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Nyama Clinic,Nyama - 101326 - Clinic,aihGnf5U3JA,ZW070447,ZW07,,Rural Council,Rural,Primary,
+MASVINGO,Zaka,Nyakunhuwa - 101325 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Nyakunhuwa Clinic,Nyakunhuwa - 101325 - Clinic,TnFsY7jz1e9,ZW080736,ZW08,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Nyakudya - 101324 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,NYAKUDYA,Nyakudya - 101324 - Clinic,D6b5mpxVpws,ZW020402,ZW02,,Gvt,Rural,Secondary,Open
+MASHONALAND EAST,UMP,Nyakasoro - 101323 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Nyakasoro Clinic,Nyakasoro - 101323 - Clinic,ZBSlEDqH1Qo,ZW030334,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Masvingo,Nyajena - 101321 - Rural Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Nyajena Rural Hospital,Nyajena - 101321 - Rural Hospital,RTubzXUovqL,ZW08050C,ZW08,,Govt,Rural,Primary,Open
+MANICALAND,Makoni,Nyahukwe - 101319 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Nyahukwe Rural Health Centre,Nyahukwe - 101319 - Rural Health Centre,T663SER6C7W,ZW010419,ZW01,,Government,Rural,Primary ,Open
+MASVINGO,Chivi,Nyahombe - 101316 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Nyahombe Rural Health Centre,Nyahombe - 101316 - Clinic,Wvse2gr2oTW,ZW080308,ZW08,,Government,Rural,Primary,Open
+MANICALAND,Mutare,Nyagundi - 101314 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Nyagundi Clinic,Nyagundi - 101314 - Rural Health Centre,BtCysCBfnDp,ZW010511,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Sanyati,Nyabango - 101306 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Sanyati,Nyabango - 101306 - Rural Health Centre,Nyabango - 101306 - Rural Health Centre,hlG0wWOxyrP,ZW040605,ZW04,,,Rural,,
+MATEBELELAND SOUTH,Umzingwane,Ntshamathe - 101304 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Ntshamathe Clinic,Ntshamathe - 101304 - Clinic,xKCmMnOpkq8,ZW060631,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Gwanda,Ntalale - 101302 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Ntalale Clinic,Ntalale - 101302 - Clinic,mm2j4nL6ha9,ZW060329,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Umguza,Ntabazinduna - 101300 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Ntabazinduna Clinic,Ntabazinduna - 101300 - Clinic,Lkd1Xq1rMpo,ZW050729,ZW05,,Town/City Council,Rural,Primary,Open
+MIDLANDS,Gweru,Ntabamhlope - 101299 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Ntabamhlope Rural Health Centre,Ntabamhlope - 101299 - Rural Health Centre,ZPOJK6AT4IP,ZW070406,ZW07,,Government,Rural,Primary,
+MATEBELELAND SOUTH,Bulilima,Nswazwi - 101298 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Nswazwi Rural Health Centre,Nswazwi - 101298 - Rural Health Centre,r3OGNRrJ82z,ZW060208,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Umzingwane,Nswazi - 101297 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Nswazi Clinic,Nswazi - 101297 - Clinic,DD4GJqpcTRS,ZW060630,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Beitbridge,Nottingham - 101292 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Nottingham Rural Health Centre,Nottingham - 101292 - Rural Health Centre,Z7Wzn53893G,ZW060109,ZW06,,,Rural,,
+MASHONALAND WEST,Chegutu,Norton - 101291 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Norton Hospital,Norton - 101291 - Hospital,nhjrpXRP9Mk,ZW04010C,ZW04,,Town/City Council,Urban,Secondary,Open
+Bulawayo,Bulawayo,Northern Suburbs - 101290 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Northern Suburbs Clinic,Northern Suburbs - 101290 - Clinic,en6HLtwW3sN,ZW090A18,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Nkunzi - 101280 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Nkunzi Clinic,Nkunzi - 101280 - Rural Health Centre,VqQbNnmOqPo,ZW050630,ZW05,,Town/City Council,Rural,Primary,Open
+Bulawayo,Bulawayo,Nkulumane - 101278 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Nkulumane Clinic,Nkulumane - 101278 - Clinic,Sv1eXLkWUya,ZW090A10,ZW09,,Town/City Council,Urban,Primary,Open
+Bulawayo,Bulawayo,Nketa - 101276 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Nketa Clinic,Nketa - 101276 - Clinic,gpJEjabIuP7,ZW090A17,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Nkayi,Nkayi - 101275 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Nkayi District Hospital,Nkayi - 101275 - District Hospital,kqTqyIwwPWa,ZW05050A,ZW05,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Insiza,Nkankezi - 101274 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Nkankezi Rural Health Centre,Nkankezi - 101274 - Rural Health Centre,gu6QjBK15Rz,ZW060405,ZW06,,Government,Rural,,
+Bulawayo,Bulawayo,Njube - 101273 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Njube Clinic,Njube - 101273 - Clinic,UCKxgQFp862,ZW090A09,ZW09,,Town/City Council,Urban,Primary,Open
+MIDLANDS,Gokwe South,Njelele - 101272 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Njelele clinic,Njelele - 101272 - Clinic,vXnel4MlOIT,ZW070318,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Gwanda,Nhwali - 101271 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Nhwali RHC,Nhwali - 101271 - Rural Health Centre,CPy6XjJD08i,ZW060303,ZW06,,Government,Rural,,
+MASHONALAND EAST,Murehwa,Nhowe - 101270 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Murewa,Nhowe Mission Hospital,Nhowe - 101270 - Mission Hospital,KHym7Le7S6g,ZW03070C,ZW03,,Mission,Rural,Mission Hospital,Active
+MATEBELELAND SOUTH,Umzingwane,Nhlangano - 101269 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Nhlangano Clinic,Nhlangano - 101269 - Clinic,tN6rOnRMwmB,ZW060629,ZW06,,Rural Council,Rural,,
+MASHONALAND EAST,UMP,Nhakiwa - 101262 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Nhakiwa Clinic,Nhakiwa - 101262 - Clinic,YYdg5pabQQ7,ZW030333,ZW03,,Rural Council,Rural,clinic,Active
+MIDLANDS,Mberengwa,Ngungumbane - 101259 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Ngungumbane Clinic,Ngungumbane - 101259 - Clinic,HQMqEmIOVzv,ZW070636,ZW07,,Rural Council,Rural,Primary,Open
+MASVINGO,Chivi,Ngundu - 101258 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Ngundu Rural Health Centre,Ngundu - 101258 - Rural Health Centre,TEsXYdnUcfu,ZW080304,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Masvingo,Ngomahuru - 101253 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Ngomahuru Rural Health Centre,Ngomahuru - 101253 - Rural Health Centre,O7ozICEgzWS,ZW080544,ZW08,,Govt,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Ngezi - 101251 - Rural Hosp,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Ngezi (mhondoro) Rural Hospital,Ngezi - 101251 - Rural Hosp,vUkB35RhitH,ZW04050A,ZW04,,Government,Rural,Primary,Open
+MIDLANDS,Mberengwa,Neta Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Neta Clinic,Neta Clinic,Tuja7aMuhP7,ZW070643,ZW07,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Nkayi,Nesigwe - 101233 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Nesigwe Clinic,Nesigwe - 101233 - Rural Health Centre,wdGaR1C8TeZ,ZW050526,ZW05,,Town/City Council,Rural,Primary,Open
+MASVINGO,Mwenezi,Neshuro - 101232 - District Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Neshuro District Hospital,Neshuro - 101232 - District Hospital,L1NXyIXr4Xi,ZW08060A,ZW08,,Government,Rural,Secondary,Open
+MANICALAND,Buhera,Nerutanga - 101231 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Nerutanga,Nerutanga - 101231 - Clinic,ZW010137,ZW010137,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Nembire - 101226 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,NEMBIRE,Nembire - 101226 - Clinic,iZ5hW3G3A2o,ZW020527,ZW02,,COUNCIL,Rural,Primary,Open
+MASVINGO,Gutu,Nemashakwe - 101224 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Nemashakwe Rural Health Centre,Nemashakwe - 101224 - Clinic,vJvZoHHCXoL,ZW080405,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Masvingo,Nemwanwa - 101228 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Nemamwa Rural Health Centre,Nemwanwa - 101228 - Clinic,BYmITScQJL8,ZW080506,ZW08,,Govt,Rural,Primary,Open
+MASVINGO,Mwenezi,Nehanda - 101222 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Nehanda Rural Health Centre,Nehanda - 101222 - Clinic,yzw2HRX9Prn,ZW080605,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Mberengwa,Negobe - 101219 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Negove Clinic,Negobe - 101219 - Clinic,Q8Btfg2jxPv,ZW070634,ZW07,,Rural Council,Rural,Primary,Open
+MANICALAND,Makoni,Nedevedzo - 101216 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Nedewedzo Rural Hospital,Nedevedzo - 101216 - Rural Hospital,BTZXAPMERV4,ZW01040D,ZW01,,Government,Rural,Primary ,Open
+MATEBELELAND SOUTH,Bulilima,Ndiweni - 101211 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Ndiweni Clinic,Ndiweni - 101211 - Clinic,mCKQlE4o0Yr,ZW060230,ZW06,,Rural Council,Rural,,
+MASVINGO,Zaka,Ndanga - 101210 - Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Ndanga District Hospital,Ndanga - 101210 - Hospital,ZlQRjkoXG9b,ZW08070A,ZW08,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Matobo,Ndabankulu Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Ndabankulu Clinic,Ndabankulu Clinic,JBrHjCgtk1U,ZW060508,ZW06,,Town/City Council,Rural,,
+MATEBELELAND SOUTH,Matobo,Natisa - 101208 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Natisa Rural Health Centre,Natisa - 101208 - Rural Health Centre,BT9ERqzG21A,ZW060501,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Umzingwane,Umzingwane - 101725 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Mzingwane RHC,Umzingwane - 101725 - Clinic,NYyR0XgxhQr,ZW060606,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Gwanda,Mzimuni - 101203 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Mzimuni Clinic,Mzimuni - 101203 - Clinic,KOtS4LirnJo,ZW060328,ZW06,,Rural Council,Rural,,
+Bulawayo,Bulawayo,Mzilikazi - 101202 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Mzilikazi Clinic,Mzilikazi - 101202 - Clinic,LzPod6UX2mA,ZW090A08,ZW09,,Town/City Council,Urban,Primary,Open
+MASVINGO,Mwenezi,Mwenezi - 101000 - Council Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Mwenezi Clinic,Mwenezi - 101000 - Council Clinic,nNRxlONErnx,ZW080628,ZW08,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Mwanza - 101195 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Mwanza Rural Health Centre,Mwanza - 101195 - Rural Health Centre,VkOjFEfhMcg,ZW030203,ZW03,,Government,Rural,clinic,Active
+MIDLANDS,Mberengwa,Mwenezi - 101198 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mwanezi Rural Health Centre,Mwenezi - 101198 - Rural Health Centre,ZWwFAVck5em,ZW070605,ZW07,,Government,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Mwami - 101194 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Mwami Rural Hospital,Mwami - 101194 - Hospital,Pr38K304mkU,ZW04020C,ZW04,,Government,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Mvurwi - 101192 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,MVURWI,Mvurwi - 101192 - Hospital,VLIf5uV4fhB,ZW02040E,ZW02,,Gvt,Urban,Primary,Open
+MANICALAND,Buhera,Muzokomba - 101190 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Muzokomba,Muzokomba - 101190 - Clinic,jFqSHbG59uf,ZW010136,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Sanyati,Muuyu - 101186 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Sanyati,Muuyu - 101186 - Council Clinic,Muuyu - 101186 - Council Clinic,Bk0ONEIrW2b,ZW040629,ZW04,,,Rural,,
+MASHONALAND CENTRAL,Mt Darwin,Mutungagore - 101185 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,MUTUNGAGORE,Mutungagore - 101185 - Clinic,N2c3DJKzPZi,ZW020507,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Mtorashanga - 101072 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Mutorashanga RDC Hospital,Mtorashanga - 101072 - Hospital,z8IQ5wyJfwO,ZW04060F,ZW04,,Rural Council,Peri-Urban,Primary,MINING
+MANICALAND,Buhera,Mutiusinazita - 101179 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Mutiusinazita,Mutiusinazita - 101179 - Clinic,RZQzoM8gIgm,ZW010135,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Buhera,Mutepfe - 101174 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Mutepfe,Mutepfe - 101174 - Clinic,ZW010134,ZW010134,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Chipinge,Mutema - 101171 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Mutema Clinic,Mutema - 101171 - Clinic,y2zdUiQO4He,ZW010333,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,UMP,Mutawatawa - 101170 - District Hosptal,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Mutawatawa District Hospital,Mutawatawa - 101170 - District Hosptal,UrJZsRd5PPS,ZW03030A,ZW03,,Government,Rural,District,Active
+MASHONALAND CENTRAL,Mt Darwin,Mutasa - 101168 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,MUTASA,Mutasa - 101168 - Clinic,YO94lYZNrgL,ZW020508,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASVINGO,Masvingo,Musvovi - 101158 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Musvovi Rural Health Centre,Musvovi - 101158 - Clinic,qWZgejuypcm,ZW080504,ZW08,,Govt,Rural,Primary,Open
+MIDLANDS,Mberengwa,Musume - 101157 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Musume Mission Hospital,Musume - 101157 - Mission Hospital,b1EmP6cfSji,ZW07060E,ZW07,,Mission,Rural,Primary,Open
+MASHONALAND EAST,UMP,Muskwe - 101155 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Muskwe Clinic,Muskwe - 101155 - Clinic,jyiZVgDtxFO,ZW030337,ZW03,,Rural Council,Rural,clinic,Active
+MIDLANDS,Gokwe South,Musita - 101154 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Musita Clinic,Musita - 101154 - Clinic,M8BCidxIPZM,ZW070336,ZW07,,Rural Council,Rural,Primary,
+MASVINGO,Zaka,Musiso - 101153 - Mission Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Musiso Mission Hospital,Musiso - 101153 - Mission Hospital,mJ9eUB3If4W,ZW08070C,ZW08,,Rural Council,Rural,Secondary,Open
+MASHONALAND WEST,Chegutu,Musinami - 101151 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Musinami Rural Health Centre,Musinami - 101151 - Rural Health Centre,Ihe6efhYbFJ,ZW040106,ZW04,,Government,Rural,Primary,Open
+MANICALAND,Mutare,Mushunje - 101149 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Mushunje Clinic,Mushunje - 101149 - Clinic,nFJhU0rVPlH,ZW010535,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Mushumbi - 101148 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mbire,Mushumbi RHC,Mushumbi - 101148 - Clinic,KgEo8UFMjYh,ZW020803,ZW02,,Government,Rural,Primary,Open
+MASVINGO,Masvingo,Mushandike - 101142 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Mushandike Rural Health Centre,Mushandike - 101142 - Clinic,bGVZqTZYySb,ZW080503,ZW08,,Govt,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Musengezi Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Musengezi Clinic,Musengezi Clinic,M4GHS3BEA5l,ZW020832,ZW02,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Murongwe Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,MURONGWE,Murongwe Clinic,J6RuoF0hurv,ZW020536,ZW02,,COUNCIL,Rural,Primary,Open
+MANICALAND,Mutare,Muromo - 101134 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Muromo Rural Health Centre,Muromo - 101134 - Rural Health Centre,JS42B8mFEYI,ZW010506,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Muriel - 101131 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Muriel Mine Clinic,Muriel - 101131 - Mine Clinic,oSJInwLJmPq,ZW040776,ZW04,,,Rural,,
+MASHONALAND EAST,Murehwa,Murewa - 101128 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Murewa Polyclinic,Murewa - 101128 - Poly Clinic,l7xNQF9S63C,ZW030722,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,Murehwa,Murewa - 101129 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Murewa Gvt District Hospital,Murewa - 101129 - District Hospital,Z0DMs3KU6oN,ZW03070A,ZW03,,Government,Rural,District Hospital,Active
+MASHONALAND WEST,Makonde,Murereka - 101127 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Murereka Rural Health Centre,Murereka - 101127 - Clinic,e8DVLtd2Bvv,ZW040407,ZW04,,Government,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Murambwa - 101125 - Council clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Murambwa RDC Clinic,Murambwa - 101125 - Council clinic,Ni4JXZ8ecnx,ZW040523,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Buhera,Murambinda - 101124 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Murambinda,Murambinda - 101124 - District Hospital,IfQGMZN0HcM,ZW01010C,ZW01,,Mission,Rural,Secondary,Open
+MASVINGO,Gutu,Munyikwa - 101114 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Munyikwa Clinic,Munyikwa - 101114 - Rural Health Centre,xclPYKg6TTi,ZW080430,ZW08,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Munyarari - 101112 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Munyarari Clinic,Munyarari - 101112 - Clinic,LLYfRU87KVr,ZW010510,ZW01,,Mission,Rural,Primary,Open
+MANICALAND,Buhera,Munyanyi - 101110 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Munyanyi Clinic,Munyanyi - 101110 - Clinic,WKyg79FMK1g,ZW010119,ZW01,,,Rural,,
+MASHONALAND EAST,Murehwa,Munamba - 101105 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Murewa,Munamba Rural Health Centre,Munamba - 101105 - Rural Health Centre,ylh5zzWxRDn,ZW030706,ZW03,,Government,Rural,clinic,Active
+MASHONALAND CENTRAL,Mt Darwin,Mukumbura - 101101 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,MUKUMBURA,Mukumbura - 101101 - Clinic,Ylaxp0B4fw0,ZW020503,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Makonde,Mukohwe - 101096 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,Mukohwe RDC Clinic,Mukohwe - 101096 - Clinic,UVH7HHcS5e4,ZW040426,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Mukarati - 101092 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mhondoro,Mukarati - 101092 - Council Clinic,Mukarati - 101092 - Council Clinic,T6RUFUxoPLP,ZW040522,ZW04,,,Rural,,
+MASHONALAND EAST,Marondera,Mudzimuirema - 101084 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Mudzimurema Rural Health Centre,Mudzimuirema - 101084 - Rural Health Centre,d4wPf8dhlPQ,ZW030505,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Buhera,Mudanda - 101081 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Mudanda,Mudanda - 101081 - Clinic,ZW010124,ZW010124,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Seke,Muda - 101080 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Muda Clinic,Muda - 101080 - Clinic,o5kCOvuHFbM,ZW030925,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,Murehwa,Muchinjike - 101079 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Muchinjike Rural Health Centre,Muchinjike - 101079 - Rural Health Centre,ic2VBm6nv6a,ZW030750,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Masvingo,Mucheke - 101077 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Mucheke Clinic,Mucheke - 101077 - Clinic,PPyDaHmqOoL,ZW080535,ZW08,,City Council,Urban,Primary,Open
+MANICALAND,Makoni,Mubvurungwa - 101075 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Mubvurungwa Clinic,Mubvurungwa - 101075 - Clinic,D7ozNJrRYT5,ZW010441,ZW01,,Rural Council,Rural,Primary ,Open
+MATEBELELAND SOUTH,Gwanda,Mtshabezi - 101073 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Mtshabezi Mission Hospital,Mtshabezi - 101073 - Mission Hospital,IVZFwtiwLgU,ZW06030C,ZW06,,Mission,Rural,,
+MATEBELELAND SOUTH,Beitbridge,Mtetengwe - 101069 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Mtetengwe Clinic,Mtetengwe - 101069 - Clinic,ooCbPaLKfGV,ZW060179,ZW06,,Rural Council,Rural,,
+MIDLANDS,Kwekwe,Msilahove - 101055 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Msilahobe Rural Health Centre,Msilahove - 101055 - Rural Hospital,s33kOOe8v54,ZW070504,ZW07,,Government,Rural,Primary,
+MASHONALAND WEST,Chegutu,Msengezi - 101053 - Mission Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Msengezi Clinic,Msengezi - 101053 - Mission Hospital,,ZW040105,,,,,,
+MIDLANDS,Mberengwa,Mposi - 101048 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mposi Clinic,Mposi - 101048 - Clinic,R1CcS5Hxd1k,ZW070639,ZW07,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Mponjani - 101046 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mponjani Clinic,Mponjani - 101046 - Clinic,B9tfPt6kbdN,ZW070638,ZW07,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,Mpisini - 101044 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Mpisini RHC,Mpisini - 101044 - Clinic,QF8O7qAp5NJ,ZW060605,ZW06,,Government,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Mpanedziba - 101040 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Mpanedziba Clinic,Mpanedziba - 101040 - Clinic,aXdklJjzRGW,ZW050697,ZW05,,Town/City Council,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Moy RDC Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Moy RDC Clinic,Moy RDC Clinic,zsDKyIf4vbl,ZW040235,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Mt. Zuma - 101064 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Mount Zuma Clinic,Mt. Zuma - 101064 - Rural Health Centre,L1KD15RCB3o,ZW010509,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Chipinge,Mt. Selinda - 101065 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Mount Selinda Mission Hospital,Mt. Selinda - 101065 - Mission Hospital,nlmsitPL9Iu,ZW01030C,ZW01,,Mission,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Mt. Hampden - 101059 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Mount Hampden RDC Clinic,Mt. Hampden - 101059 - Clinic,IM2c57bchDp,ZW040745,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MASVINGO,Masvingo,Mogenester - 101030 - Mission Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Morgenster Mission Hospital,Mogenester - 101030 - Mission Hospital,J4lnaGjZpej,ZW08050D,ZW08,,Mission,Rural,Primary,Open
+MIDLANDS,Gweru,Monomutapa - 101034 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Monomutapa Clinic,Monomutapa - 101034 - Clinic,aGWqGhV3ang,ZW070464,ZW07,,Town/City Council,Urban,Primary,
+MASHONALAND WEST,Chegutu,Monera - 101033 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Monera Rural Health Centre,Monera - 101033 - Council Clinic,Pj8Kuw1CNhE,ZW040104,ZW04,,Government,Rural,Primary,Open
+MANICALAND,Buhera,Mombeyarara - 101032 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Mombeyarara,Mombeyarara - 101032 - Rural Health Centre,GRnO7AgEsEI,ZW010104,ZW01,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Mnene - 101029 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mnene Mission Hospital,Mnene - 101029 - Mission Hospital,K6sG4uXiB6K,ZW07060C,ZW07,,Mission,Rural,Secondary,Open
+MIDLANDS,Gweru,Mkoba Poly - 101023 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Mkoba PolyClinic,Mkoba Poly - 101023 - Clinic,B1ZFRN0RAMC,ZW070463,ZW07,,Town/City Council,Urban,Primary,
+MIDLANDS,Gweru,Mkoba 1 - 101022 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Mkoba I Clinic,Mkoba 1 - 101022 - Clinic,kaTOd9MJSSE,ZW070462,ZW07,,Town/City Council,Urban,Primary,
+MIDLANDS,Mberengwa,Muketi - 101094 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mketi Clinic,Muketi - 101094 - Clinic,sMfRb7ilqPz,ZW070633,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Chegutu,Mhondoro - 101015 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Mhondoro Rural Hospital,Mhondoro - 101015 - Rural Hospital,d6ywbdGkzaO,ZW04010B,ZW04,,Government,Rural,Primary,Open
+MASHONALAND WEST,Chegutu,Mhondoro North - 101016 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Mhondoro North Clinic,Mhondoro North - 101016 - Council Clinic,F7EVUaZPD8U,ZW040127,ZW04,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,Mhlahlandlela - 101013 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Mhlahlandlela Clinic,Mhlahlandlela - 101013 - Clinic,JfjyEPK4x5b,ZW060628,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Bubi,Mdutshane - 101002 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Mdutshane Rural Health Centre,Mdutshane - 101002 - Clinic,wEobN4cAAW1,ZW050230,ZW05,,Government,Rural,Primary,Open
+MASHONALAND CENTRAL,Guruve,Shinje - 101565 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Shinje Rural Health Centre,Shinje - 101565 - Clinic,XvFeIoEFTeb,ZW020307,ZW01,,Government,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Ruyamuro - 101497 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Ruyamuro Clinic,Ruyamuro - 101497 - Clinic,J8FU6ENnDNO,ZW020343,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Nyamupfuta Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Nyamupfuta Clinic,Nyamupfuta Clinic,GPVHFSphFZP,ZW020350,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Nyamhondoro - 101347 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Nyamhondoro Rural Health Centre,Nyamhondoro - 101347 - Clinic,MbFiYotYxPd,ZW020306,ZW02,,Government,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Nyakapupu - 101322 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Nyakapupu Clinic,Nyakapupu - 101322 - Clinic,RZiEZOfYYtO,ZW020339,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Negomo - 101220 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Negomo Rural Health Centre,Negomo - 101220 - Clinic,wiytlUmyowe,ZW020305,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Mugarakamwe - 101088 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Mugarakamwe Clinic,Mugarakamwe - 101088 - Rural Health Centre,TDDKilyABXk,ZW020345,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Matsvitsi - 100963 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Matsvitsi Clinic,Matsvitsi - 100963 - Clinic,ioI2RDrHeYA,ZW020333,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Kemutamba - 100729 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Kemutamba Clinic,Kemutamba - 100729 - Rural Health Centre,IEk6Eq8wiJC,ZW020346,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Kachuta - 100679 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Kachuta Clinic,Kachuta - 100679 - Clinic,vfT8lkkZDP3,ZW020331,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Guruve - 100553 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Guruve District Hospital,Guruve - 100553 - District Hospital,vHz5VnCPKDo,ZW02030B,ZW02,,Government,Rural,Secondary,Open
+MASHONALAND CENTRAL,Guruve,Guruve - 100554 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Guruve Centre Rural Health Clinic,Guruve - 100554 - Clinic,m3PHpSk6e5D,ZW020308,ZW02,,Government,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Gota - 100527 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Gota Clinic,Gota - 100527 - Clinic,EG82X64efyb,ZW020334,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Chipuriro - 100261 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Chipuriro Clinic,Chipuriro - 100261 - Clinic,ljTll5k1dSz,ZW020329,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Kamusasa - 100697 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Camsasa Clinic,Kamusasa - 100697 - Clinic,EN9aDhbLX4h,ZW020347,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Bvochora - 100109 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Bvochora Rural Health Centre,Bvochora - 100109 - Clinic,H1CIVRR8e4n,ZW020301,ZW02,,Government,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Brandon - 100092 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Brandon Clinic,Brandon - 100092 - Clinic,hinUkt7c07g,ZW020348,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Birkdale - 100077 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Birkdale Clinic,Birkdale - 100077 - Rural Health Centre,K8NL6XRIrxZ,ZW020344,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Bepura - 100058 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Bepura Clinic,Bepura - 100058 - Clinic,WfmzrChbLZ1,ZW020327,ZW02,,council,Rural,PHC,Open
+MASHONALAND CENTRAL,Guruve,Bakasa - 100035 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Guruve,mc Bakasa Clinic,Bakasa - 100035 - Clinic,n8RWoY50Jdi,ZW020326,ZW02,,council,Rural,PHC,Open
+MATEBELELAND NORTH,Nkayi,Mbuma - 100998 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Nkayi,Mbuma Mission Hospital,Mbuma - 100998 - Mission Hospital,dhwL8YFJUKy,ZW05050C,ZW05,,Mission,Rural,Secondary,Open
+MATEBELELAND SOUTH,Insiza,Mbondo Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Mbondo,Mbondo Clinic,ZW060431,ZW060431,ZW06,,,Rural,,
+MIDLANDS,Kwekwe,Mbizo 2 - 100997 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Mbizo II Clinic,Mbizo 2 - 100997 - Clinic,hZNgOzXAjrf,ZW070563,ZW07,,Town/City Council,Urban,Primary,
+MIDLANDS,Kwekwe,Mbizo 1 - 100996 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Mbizo I Clinic,Mbizo 1 - 100996 - Clinic,cNMEcj2lCN3,ZW070562,ZW07,,Town/City Council,Urban,Primary,
+MATEBELELAND SOUTH,Umzingwane,Mbizingwe - 100995 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Mbizingwe RHC,Mbizingwe - 100995 - Rural Health Centre,WRQDsk1fI1Z,ZW060602,ZW06,,Government,Rural,,
+MIDLANDS,Mberengwa,Mberengwa -101874 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mberengwa District Hospital,Mberengwa -101874 - District Hospital,rbE4iLAquiP,ZW07060A,ZW07,,Government,Rural,Secondary,Open
+MATEBELELAND NORTH,Bubi,Mbembeswana - 100990 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Matobo,Mbembeswane Clinic,Mbembeswana - 100990 - Rural Health Centre,lXWXq7pvXNr,ZW060525,ZW06,,Town/City Council,Rural,,
+MATEBELELAND NORTH,Umguza,Mbembesi - 100989 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Mbembesi Rural health Centre,Mbembesi - 100989 - Rural Health Centre,Aj4vatSkbng,ZW050733,ZW05,,Government,Rural,Primary,Open
+MASVINGO,Gutu,Mazuru - 100985 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Mazuru Clinic,Mazuru - 100985 - Clinic,AGkV135CYcT,ZW080429,ZW08,,Rural Council,Rural,Primary,Open
+MIDLANDS,Kwekwe,Mazebe - 100975 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Mazebe Rural Health Centre,Mazebe - 100975 - Rural Health Centre,QwFhomr6Alo,ZW070503,ZW07,,Government,Rural,Primary,
+MASHONALAND CENTRAL,Mazowe,Mazowe Secondary Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,MAZ SEC,Mazowe Secondary Clinic,rIRI3UUrG9u,ZW020486,ZW02,,Mission,Farming,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Mazowe - 100982 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,MAZ MINE,Mazowe - 100982 - Mine Clinic,UHEApkHNETl,ZW020477,ZW02,,Pvt,Mining,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Mazowe Citrus Hosp. - 100981 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,MAZ CITRUS,Mazowe Citrus Hosp. - 100981 - Rural Hospital,PuBmgTRc6cO,ZW02040D,ZW02,,Pvt,Farming,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Mayobodo - 100972 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Mayobodo Rural Health Centre,Mayobodo - 100972 - Rural Health Centre,RJnzhQ3jWs2,ZW060707,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Umzingwane,Mawabeni - 100969 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Mawabeni Clinic,Mawabeni - 100969 - Clinic,BryKgdfmnnU,ZW060627,ZW06,,Rural Council,Rural,,
+MIDLANDS,Mberengwa,Mavorovondo - 100968 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mavorovondo Rural Health Centre,Mavorovondo - 100968 - Rural Health Centre,yzbqtmKSajN,ZW070603,ZW07,,Government,Rural,Primary,Open
+MANICALAND,Makoni,Maurice Nyagumbo - 100965 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Maurice Nyagumbo Clinic,Maurice Nyagumbo - 100965 - Clinic,hcyuAxmkOqu,ZW010438,ZW01,,Government,Rural,Primary ,Open
+MASHONALAND EAST,Murehwa,Matututu - 100964 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Matututu Clinic,Matututu - 100964 - Rural Health Centre,h3HNN5Uo4Wt,ZW030731,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Matobo,Matobo Rural - 100957 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Matopo Rural Hospital,Matobo Rural - 100957 - Rural Hospital,f3mLKel2gIx,ZW06050C,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Matobo,Matobo - 100956 - Mission Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Matopo Mission Clinic,Matobo - 100956 - Mission Clinic,gri4bmtWbqG,ZW060591,ZW06,,Mission,Rural,,
+MASHONALAND CENTRAL,Mt Darwin,Matope - 100958 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,MATOPE,Matope - 100958 - Clinic,Kw1zFMl53yn,ZW020532,ZW02,,COUNCIL,Rural,Primary,Open
+MATEBELELAND SOUTH,Bulilima,Matjinge - 100955 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Matjinge Rural Health Centre,Matjinge - 100955 - Rural Health Centre,ofDSu93XYEs,ZW060206,ZW06,,Government,Rural,,
+MASVINGO,Gutu,Matizha - 100954 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Matizha Rural Health Centre,Matizha - 100954 - Clinic,onzEz7OrfEc,ZW080403,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Mwenezi,Matibi - 100952 - Mission Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Matibi Mission Hospital,Matibi - 100952 - Mission Hospital,rGj6vwocIr0,ZW08060B,ZW08,,Mission,Rural,Secondary,Open
+MIDLANDS,Gokwe South,Mateta - 100951 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Mateta Rural Health Centre,Mateta - 100951 - Rural Health Centre,EwHQN1F5qHJ,ZW070306,ZW07,,Government,Rural,Primary,
+MATEBELELAND NORTH,Nkayi,Mateme - 100949 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Mateme Rural Health Centre,Mateme - 100949 - Rural Health Centre,k55ILJNLfNh,ZW050502,ZW05,,Government,Rural,Primary,Open
+MIDLANDS,Mberengwa,Matedzi - 100947 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Matedzi,Matedzi - 100947 - Clinic,DHlTNsaO7Yr,ZW070630,ZW07,,,Rural,,
+MANICALAND,Mutare,Matanda - 100943 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Matanda Clinic,Matanda - 100943 - Rural Health Centre,RrRf8znKPaf,ZW010520,ZW01,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Mataga - 100942 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Mataga Rural Health Centre,Mataga - 100942 - Rural Health Centre,iTw40m40wuw,ZW070602,ZW07,,Government,Rural,Primary,Open
+MANICALAND,Makoni,Masvosva - 100941 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Masvosva Rural Health Centre,Masvosva - 100941 - Rural Health Centre,gmCfw2czWHi,ZW010412,ZW01,,Government,Rural,Primary ,Open
+MASHONALAND CENTRAL,Mbire,Masomo - 100934 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mbire,Masomo Clinic,Masomo - 100934 - Clinic,JMhCZEU8ORd,ZW020802,ZW02,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Masoka - 100933 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Masoka Clinic,Masoka - 100933 - Clinic,opbhiJq49ON,ZW020801,ZW02,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Matobo,Masiye Camp - 100932 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Masiye Clinic,Masiye Camp - 100932 - Clinic,mgxlglCseF4,ZW060593,ZW06,,Mission,Rural,,
+MASHONALAND WEST,Zvimba,Masiyarwa - 100931 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Zvimba,Masiyarwa RDC Clinic,Masiyarwa - 100931 - Council Clinic,p46ydQFsxfx,ZW040725,ZW04,,Rural Council,Rural,Primary,RURAL
+MASHONALAND EAST,Goromonzi,Masukandoro - 100936 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Masikandoro Clinic,Masukandoro - 100936 - Clinic,xfCa24E9UuT,ZW030228,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,Marondera,Masikana - 100929 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Masikana Council Clinic,Masikana - 100929 - Clinic,aFOZQYiMlJL,ZW030525,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,UMP,Mashambanhaka - 100924 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Mashambanhaka Clinic,Mashambanhaka - 100924 - Clinic,tNoou36Gm6h,ZW030332,ZW03,,Mission,Rural,clinic,Active
+MATEBELELAND SOUTH,Bulilima,Masendu - 100921 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Masendu Clinic,Masendu - 100921 - Clinic,twOU9Qka6Hm,ZW060235,ZW06,,Rural Council,Rural,,
+MIDLANDS,Mberengwa,Masase - 100918 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Masase Mission Hospital,Masase - 100918 - Mission Hospital,RXaYWmsAjhs,ZW07060D,ZW07,,Mission,Rural,Primary,Open
+MASHONALAND EAST,Seke,Masasa - 100917 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Masasa Rural Health Centre,Masasa - 100917 - Rural Health Centre,JDRHYfbYFJE,ZW030905,ZW03,,Government,Rural,clinic,Active
+MASHONALAND WEST,Hurungwe,Masanga - 100913 - Gvt Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Masanga Rural Health Centre,Masanga - 100913 - Gvt Clinic,k8PBGr2DIPd,ZW040205,ZW04,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Marula - 100910 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Marula Clinic,Marula - 100910 - Clinic,HYNPD4P3JyV,ZW060705,ZW06,,Rural Council,Rural,,
+MASHONALAND EAST,Marondera,Marondera - 100902 - Rural Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Marondera Rural Council Clinic,Marondera - 100902 - Rural Clinic,e7yLZBqvLeh,ZW030528,ZW03,,Rural Council,Urban,clinic,Active
+MASHONALAND EAST,Seke,Marirangwe - 100899 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Marirangwe Clinic,Marirangwe - 100899 - Clinic,Ai2GEHQJ2iq,ZW030924,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,UMP,Marembera - 100897 - Rural Health Centre,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Marembera Rural Health Centre,Marembera - 100897 - Rural Health Centre,VYh7ERb4cm8,ZW030304,ZW03,,Government,Rural,clinic,Active
+MANICALAND,Mutare,Marange - 100896 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Marange Rural Hospital,Marange - 100896 - Rural Hospital,Yb75x5mU1gC,ZW01050E,ZW01,,Government,Rural,Secondary,Open
+MASVINGO,Mwenezi,Maranda -101865 -Sub-Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Maranda Sub Rural Health Centre,Maranda -101865 -Sub-Clinic,mtHydPyChpG,ZW080604,ZW08,,Government,Rural,Primary,Open
+MASHONALAND EAST,UMP,Maramba - 100894 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Maramba Clinic,Maramba - 100894 - Clinic,py2bD2jkCI0,ZW030331,ZW03,,Rural Council,Rural,clinic,Active
+Bulawayo,Bulawayo,Maqhawe - 100893 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Maqhawe Clinic,Maqhawe - 100893 - Clinic,ikrpWZKIaxV,ZW090A33,ZW09,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Zvimba,Mapinga  - 100891 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Mapinga RDC Clinic,Mapinga  - 100891 - Clinic,NcZpdLLxlKu,ZW040783,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MATEBELELAND SOUTH,Matobo,Maphisa - 100890 - District Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Maphisa District Hospital,Maphisa - 100890 - District Hospital,qwnyqPsOoCT,ZW06050A,ZW06,,Government,Rural,,
+MASVINGO,Masvingo,Mapanzure - 100884 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Mapanzure Clinic,Mapanzure - 100884 - Clinic,yPQXMrWCQ8C,ZW080528,ZW08,,RDC,Rural,Primary,Open
+MIDLANDS,Gokwe South,Manyoni - 100880 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Manyoni Clinic,Manyoni - 100880 - Clinic,DatBlAwahyx,ZW070393,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND EAST,UMP,Manyika - 100879 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Manyika Clinic,Manyika - 100879 - Clinic,TQwkaKG3kHj,ZW030330,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Makonde,Manyamba - 100875 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Manyamba Rural Health Centre,Manyamba - 100875 - Clinic,EeHMROYRaAD,ZW040487,ZW04,,Government,Rural,Primary,Open
+MIDLANDS,Gokwe South,Manoti - 100874 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Manoti Clinic,Manoti - 100874 - Clinic,fH3XHnD9BCh,ZW070333,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Mangwe,Maninji - 101914 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Maninji Clinic,Maninji - 101914 - Clinic,AxbWlACKfun,ZW060734,ZW06,,Rural Council,Rural,,
+MIDLANDS,Gweru,Mangwande - 100872 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Mangwandi Rural Health Centre,Mangwande - 100872 - Clinic,XdDKGCXjiWo,ZW070403,ZW07,,Government,Rural,Primary,
+MASVINGO,Chivi,Mhandamabwe - 101011 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Mandamabwe Rural Health Centre,Mhandamabwe - 101011 - Rural Health Centre,d507u4dhfug,ZW080303,ZW08,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Gwanda,Manama - 100867 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Manama Mission Hospital,Manama - 100867 - Mission Hospital,fqYJ8EfOnTe,ZW06030B,ZW06,,Mission,Rural,,
+MATEBELELAND SOUTH,Mangwe,Mambale - 100864 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Mambale Clinic,Mambale - 100864 - Clinic,CoCGCYaDyfm,ZW060729,ZW06,,Rural Council,Rural,,
+MIDLANDS,Kwekwe,Malisa Josefa - 100863 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Malisa Joshepha Clinic,Malisa Josefa - 100863 - Clinic,A2VmYuwHVAw,ZW070527,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Gwanda,Makwe - 100859 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Makwe RHC,Makwe - 100859 - Rural Health Centre,MfChw9iO4MQ,ZW060302,ZW06,,Government,Rural,,
+MIDLANDS,Mberengwa,Makuwerere - 100857 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Makuwerere Clinic,Makuwerere - 100857 - Clinic,bAlZzNKhdBr,ZW070629,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Makumbe - 100853 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Makumbe District Hospital,Makumbe - 100853 - District Hospital,jAfJAli9ZVn,ZW03020A,ZW03,,Government,Rural,District Hospital,Active
+MASHONALAND CENTRAL,Mazowe,Makope - 100850 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,MAKOPE,Makope - 100850 - Clinic,JHROECLEsrH,ZW020428,ZW02,,Council,Rural,Primary,Open
+MANICALAND,Makoni,Makoni - 100849 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Makoni Rural Hospital,Makoni - 100849 - Rural Hospital,uWhfHwNDemw,ZW01040C,ZW01,,Government,Rural,Primary ,Open
+MASHONALAND WEST,Makonde,Makonde Christian - 100848 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,Makonde Christ Hosp,Makonde Christian - 100848 - Mission Hospital,OkTXq7ukdO3,ZW04040D,ZW04,,Mission,Rural,Secondary,Open
+MATEBELELAND SOUTH,Beitbridge,Makombe - 100847 - Clinic (New - Note Yet Open),PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Makombe Clinic,Makombe - 100847 - Clinic (New - Note Yet Open),OAq1i8fDht3,ZW060178,ZW06,,,Rural,,
+MATEBELELAND SOUTH,Bulilima,Makhuleka - 100846 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Makhulela Rural Health Centre,Makhuleka - 100846 - Clinic,QPHAMe5GEWA,ZW060204,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Makaza - 100843 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Makhaza Rural Health Centre,Makaza - 100843 - Rural Health Centre,FglkSfTl6l0,ZW050603,ZW05,,Government,Rural,Primary,Open
+MIDLANDS,Gweru,Makepesi - 100844 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Makepesi Clinic,Makepesi - 100844 - Clinic,GCjrq7GWU3O,ZW070428,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND EAST,Seke,Makanyazingwa Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Makanyazingwa Clinic,Makanyazingwa Clinic,U1AEf47KS9d,ZW030923,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Beitbridge,Majini - 100835 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Majini Rural Health Centre,Majini - 100835 - Rural Health Centre,HLtonOYJwWn,ZW060104,ZW06,,Government,Rural,,
+MATEBELELAND NORTH,Bubi,Majiji - 100834 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Majiji Clinic,Majiji - 100834 - Clinic,htZ51X0NqzW,ZW050228,ZW05,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Mahuwe - 100830 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mbire,Mahuwe Clinic,Mahuwe - 100830 - Clinic,ar7ptby0gUw,ZW020833,ZW02,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Mahusekwa - 100829 - Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Mahusekwa District Hospital,Mahusekwa - 100829 - Hospital,YBLoHaAmcFN,ZW03050C,ZW03,,Government,Rural,District Hospital,Active
+Bulawayo,Bulawayo,Mahatshula Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Mahatshula Private Clinic,Mahatshula Clinic,ZW090A66,ZW090A66,ZW09,,Private,Urban,Primary,Open
+Bulawayo,Bulawayo,Magwegwe - 100824 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Magwegwe Clinic,Magwegwe - 100824 - Clinic,FEdl2EBiTBV,ZW090A07,ZW09,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Mhondoro,Mafindifindi - 100818 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mhondoro,Mafindifindi - 100818 - Council Clinic,Mafindifindi - 100818 - Council Clinic,neFCRmV8iZJ,ZW040520,ZW04,,,Rural,,
+MASHONALAND WEST,Zvimba,Madzorera - 100817 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Madzorera RDC Clinic,Madzorera - 100817 - Clinic,FsqaXprbYyV,ZW040728,ZW04,,Rural Council,Rural,Primary,RURAL
+MANICALAND,Buhera,Madzimbashuro - 100810 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Madzimbashuro,Madzimbashuro - 100810 - Rural Health Centre,snbgbGRWH3K,ZW010103,ZW01,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Bulilima,Madlambuzi - 100807 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Madlambudzi Clinic,Madlambuzi - 100807 - Clinic,mJIpxNdl2QY,ZW060228,ZW06,,Rural Council,Rural,,
+MIDLANDS,Gweru,Madhikani - 100804 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Madikani Clinic,Madhikani - 100804 - Clinic,iGoaM56EbBM,ZW070427,ZW07,,Rural Council,Rural,Primary,
+MANICALAND,Chipinge,Madhuku - 100805 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Madhuku Clinic,Madhuku - 100805 - Rural Health Centre,xvTQ8nB5Mvj,ZW010329,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Madabe - 100800 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Madabe Clinic,Madabe - 100800 - Clinic,jPcuTzdshv2,ZW060727,ZW06,,Rural Council,Rural,,
+MATEBELELAND SOUTH,Mangwe,Macingwana RHC,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Macingwana ,Macingwana RHC,qKa0cqfK6cB,ZW060735,ZW06,,Mission,Rural,,
+MASHONALAND EAST,Murehwa,Macheke - 100799 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Macheke Clinic,Macheke - 100799 - Clinic,cdZowZBWgqY,ZW030745,ZW03,,Rural Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Insiza,Mabuze - 100795 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Mabuze Rural Health Centre,Mabuze - 100795 - Rural Health Centre,ZzNvcMVOVP3,ZW060404,ZW06,,Government,Rural,,
+MATEBELELAND NORTH,Umguza,Maboleni RHC,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Gweru,Maboleni Clinic,Maboleni RHC,BiLbWhqc5wO,ZW070426,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND WEST,Hurungwe,Lynx - 100788 - Clinic Private Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Lynx Clinic,Lynx - 100788 - Clinic Private Clinic,ASp1TgIA8zi,ZW040275,ZW04,,Rural Council,Rural,Primary,Open
+Bulawayo,Bulawayo,Luveve - 100786 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Luveve Clinic,Luveve - 100786 - Clinic,Sss3M30PqRD,ZW090A06,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Nkayi,Lutsha Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Nkayi,Lutsha Clinic,Lutsha Clinic,ZW050535,ZW050535,,,,Rural,,
+MASHONALAND EAST,Marondera,Lustliegh - 100784 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Lustleigh Council Clinic,Lustliegh - 100784 - Clinic,VtpGw8NPT7u,ZW030564,ZW03,,Government,Rural,clinic,Active
+MATEBELELAND SOUTH,Gwanda,Lushongwe - 100783 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Lushongwe Clinic,Lushongwe - 100783 - Clinic,nWY5DVISxvp,ZW060333,ZW06,,Rural Council,Rural,,
+MATEBELELAND NORTH,Lupane,Lupane - 100781 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Lupane Rural Health Centre,Lupane - 100781 - Rural Health Centre,l0QLIoY6x80,ZW050406,ZW05,,Government,Rural,Primary,Open
+MATEBELELAND NORTH,Lupane,Lupaka - 100780 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Lupaka Clinic,Lupaka - 100780 - Clinic,vEbJJckDzFK,ZW050407,ZW05,,Government,Rural,Primary,Open
+MASVINGO,Mwenezi,Lundi - 100778 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Lundi Clinic,Lundi - 100778 - Clinic,uZxyGTs0zwb,ZW080692,ZW08,,Mission,Rural,Secondary,Open
+MIDLANDS,Gweru,Lower Gweru - 100772 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Lower Gweru clinic,Lower Gweru - 100772 - Mission Clinic,tdC1z2GmRLr,ZW070491,ZW07,,Government,Rural,Primary,
+MANICALAND,Mutare,Lee Kul - 100765 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Leekuil Takunda Clinic,Lee Kul - 100765 - Clinic,s4fE8Jt1g4L,ZW010521,ZW01,,Government,Rural,Primary,Open
+MATEBELELAND NORTH,Lupane,Lake Alice - 101888 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Lake-Alice Clinic,Lake Alice - 101888 - Clinic,gVkObbofnxN,ZW050428,ZW05,,Town/City Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Bulilima,Lady Stanley - 100756 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Lady Stanley Rural Hospital,Lady Stanley - 100756 - Mission Hospital,Orr1ircj1n9,ZW06020C,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Bulilima,Lady Barring - 100755 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Lady Barring Rural Hospital,Lady Barring - 100755 - Mission Hospital,XdWdQRJn9Py,ZW06020B,ZW06,,Government,Rural,,
+MIDLANDS,Kwekwe,Kwekwe - 100754 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Kwekwe General Hospital,Kwekwe - 100754 - District Hospital,nThW8r8MZtE,ZW07050A,ZW07,,Government,Urban,Secondary,
+MASHONALAND WEST,Zvimba,Kuwadzana - 100752 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Kuwadzana RDC Clinic,Kuwadzana - 100752 - Council Clinic,dArzb8heLtw,ZW040744,ZW04,,Rural Council,Urban,Primary,TOWN
+MASHONALAND WEST,Zvimba,Kutama - 100750 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Kutama RDC Clinic,Kutama - 100750 - Council Clinic,SZfZ586Bl1Q,ZW040743,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MASHONALAND EAST,Marondera,Kushinga Phikelela - 100749 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Kushinga Phikhelela Rural Health Centre,Kushinga Phikelela - 100749 - Clinic,f4uKZhvCUTc,ZW030504,ZW03,,Government,Rural,clinic,Active
+MASHONALAND EAST,Seke,Kunaka - 100746 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Kunaka Hospital,Kunaka - 100746 - Rural Hospital,OU0gHuwRZtW,ZW03090B,ZW03,,Rural Council,Rural,Hospital,Active
+MATEBELELAND SOUTH,Umzingwane,Kumbuzi - 100745 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Kumbudzi RHC,Kumbuzi - 100745 - Rural Health Centre,RbPl86Ek1pJ,ZW060601,ZW06,,Government,Rural,,
+MASHONALAND EAST,Goromonzi,Kubatsirana - 100744 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Kubatsirana Clinic,Kubatsirana - 100744 - Clinic,ddofD4xrcKS,ZW030248,ZW03,,Rural Council,Rural,clinic,Active
+MIDLANDS,Gokwe South,Krima - 100743 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Krima Clinic,Krima - 100743 - Clinic,iIJY7AzDu3b,ZW070330,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND EAST,Goromonzi,Kowoyo - 100742 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Kowoyo Clinic,Kowoyo - 100742 - Clinic,pME5ihuWYf5,ZW030227,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Chipinge,Kondo - 100735 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Kondo Clinic,Kondo - 100735 - Clinic,E5TbMMc7bA3,ZW010328,ZW01,,Rural Council,Rural,Primary,Open
+Bulawayo,Bulawayo,Khami - 100733 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Khami Road Clinic,Khami - 100733 - Clinic,HTOW8SwHLtO,ZW090A05,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND SOUTH,Matobo,Kezi - 100732 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Kezi Rural Hospital,Kezi - 100732 - Rural Hospital,FDm9hBNYb99,ZW06050B,ZW06,,Government,Rural,,
+MASHONALAND WEST,Makonde,Kenzamba - 100731 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Kenzamba Rural Health Centre,Kenzamba - 100731 - Clinic,GW3nlgDs9xm,ZW040406,ZW04,,Government,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Kazangarare - 100727 - Gvt Council,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Kazangarare Clinic,Kazangarare - 100727 - Gvt Council,qUHcE4ErSLH,ZW040227,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Makoni,Katsenga - 100723 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Katsenga Rural Health Centre,Katsenga - 100723 - Rural Health Centre,ciscgPAvSgq,ZW010410,ZW01,,Government,Rural,Primary ,Open
+MASHONALAND WEST,Chegutu,Katanga utano - 100719 - Municipality,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Katanga Utano Clinic,Katanga utano - 100719 - Municipality,AovMStawZQF,ZW040147,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Hurungwe,Kasimube - 100717 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Kasimure RHC,Kasimube - 100717 - Rural Health Centre,IE7VibyIDHH,ZW040294,ZW04,,Government,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Karoi Static -101847 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Karoi Static Clinic,Karoi Static -101847 - Clinic,fu7mCEGiPDN,ZW040261,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Hurungwe,Karoi - 100715 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Karoi District Hospital,Karoi - 100715 - District Hospital,VNjdYsWixGj,ZW04020A,ZW04,,Government,Urban,Secondary,Open
+MASHONALAND EAST,UMP,Karimbika - 100713 - Rural Health Centre,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Karimbika Rural Health Centre,Karimbika - 100713 - Rural Health Centre,tK6PvmnXlXx,ZW030302,ZW03,,Government,Rural,clinic,Active
+MASHONALAND CENTRAL,Mt Darwin,Karanda - 100709 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Mt Darwin,KARANDA HOSPITAL,Karanda - 100709 - Mission Hospital,zhngjlBBq8a,ZW02050B,ZW02,,MISSION,Rural,Secondary,Open
+MASHONALAND WEST,Hurungwe,Kapfunde - 100706 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Kapfunde Clinic,Kapfunde - 100706 - Council Clinic,FlnO6SLGkoS,ZW040291,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Makonde,Kanyanga - 100702 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Kanyaga RDC Clinic,Kanyanga - 100702 - Clinic,AAZhENxl6fW,ZW040488,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Kandeya clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,KANDEYA,Kandeya clinic,yvfEluoF3Bu,ZW020538,ZW02,,COUNCIL,Rural,Primary,Open
+MIDLANDS,Gokwe South,Kana - 100699 - Mission Hospitals,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Kana Mission Hospital,Kana - 100699 - Mission Hospitals,qKPPhaui7JF,ZW07030C,ZW07,,Mission,Rural,Secondary,
+MASHONALAND WEST,Makonde,Kamuzingizi - 101919 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Kamuzingizi - 101919 - Council Clinic,Kamuzingizi - 101919 - Council Clinic,k99EoqaYwen,ZW040492,ZW04,,,Rural,,
+MASHONALAND CENTRAL,Mt Darwin,Kamutsenzere - 100698 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,KAMUTSENZERE,Kamutsenzere - 100698 - Clinic,FYtb3028m7i,ZW020502,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Makonde,Kamonde - 100696 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Kamhonde Rural Health Centre,Kamonde - 100696 - Clinic,yX2lY2FPwYO,ZW040405,ZW04,,Government,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,Kambarami - 100693 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Kambarami Rural Health Centre,Kambarami - 100693 - Clinic,LEyBzwRbqB1,ZW030749,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mt Darwin,Kaitano - 100691 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,KAITANO,Kaitano - 100691 - Clinic,aRgngorjrfa,ZW020526,ZW02,,COUNCIL,Rural,Primary,Open
+MATEBELELAND SOUTH,Gwanda,Kafusi - 100689 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Kafusi Clinic,Kafusi - 100689 - Clinic,N26tcya5qNw,ZW060326,ZW06,,Rural Council,Rural,,
+MASHONALAND EAST,UMP,Kafura - 100688 - Rural Health Centre,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Kafura Rural Health Centre,Kafura - 100688 - Rural Health Centre,jdEFSM3lK1L,ZW030301,ZW03,,Government,Rural,clinic,Active
+MASHONALAND EAST,Murehwa,Kadzere - 100686 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Kadzere Rural Health Centre,Kadzere - 100686 - Clinic,CbmWNb9Tcpi,ZW030727,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Sanyati,Kadoma - 100681 - District Hosp,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Kadoma General Hospital,Kadoma - 100681 - District Hosp,wOpjGYcTm6P,ZW04060A,ZW04,,Government,Urban,Secondary,Open
+MASHONALAND EAST,Murehwa,Kadenge - 100680 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Kadenge Rural Health Centre,Kadenge - 100680 - Rural Health Centre,MiLexqDZjQJ,ZW030704,ZW03,,Government,Rural,clinic,Active
+MANICALAND,Chipinge,Junction Gate - 100676 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Junction Gate Clinic,Junction Gate - 100676 - Clinic,keLg1H27wuQ,ZW010348,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Lupane,Jotsholo - 100675 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Jotsholo Clinic,Jotsholo - 100675 - Clinic,rCYzUIDW7MG,ZW050426,ZW05,,Town/City Council,Rural,Primary,Open
+MASHONALAND EAST,Seke,Jonasi - 100673 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Jonasi Clinic,Jonasi - 100673 - Clinic,XvaFMjND2A3,ZW030922,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Sanyati,Jompani - 100672 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Sanyati,Jompani - 100672 - Rural Health Centre,Jompani - 100672 - Rural Health Centre,oIdo1LMkqbS,ZW040601,ZW04,,,Rural,,
+MASHONALAND CENTRAL,Mazowe,Jingamvura - 100664 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,JINGAMVURA,Jingamvura - 100664 - Clinic,TGrveoFxJj2,ZW020427,ZW02,,Gvt,Rural,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Jimila - 100663 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Jimila Clinic,Jimila - 100663 - Clinic,Dm57psrUa0O,ZW050628,ZW05,,Town/City Council,Rural,Primary,Open
+MASVINGO,Zaka,Jerera - 100659 - Satelite Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Jerera Satellite Clinic,Jerera - 100659 - Satelite Clinic,PMfFMZIrZm5,ZW080739,ZW08,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Jeka - 100656 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Jeka Rural Hospital,Jeka - 100656 - Rural Hospital,YtbICY59p63,ZW07060B,ZW07,,Government,Rural,Secondary,Open
+MASHONALAND WEST,Zvimba,Jari - 100655 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Zvimba,Jari RDC Clinic,Jari - 100655 - Council Clinic,mtoJLmHp5jP,ZW040727,ZW04,,Rural Council,Rural,Primary,RURAL
+MATEBELELAND NORTH,Bubi,Isabella Mine - 100647 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Isabella Mine Clinic,Isabella Mine - 100647 - Mine Clinic,yahjoGsrzyY,ZW050256,ZW05,,Mine,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,Irisvale - 100644 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Irrisvale RHC,Irisvale - 100644 - Rural Health Centre,JHAlEGeE4Cl,ZW060632,ZW06,,Government,Rural,,
+MATEBELELAND NORTH,Bubi,Inyathi - 100642 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Inyathi District Hospital,Inyathi - 100642 - District Hospital,fdsEXNvFfWg,ZW05020A,ZW05,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Insiza,Insiza PBS - 100640 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Insiza Rural Health Centre,Insiza PBS - 100640 - Clinic,ZaWOfFs5CGk,ZW060403,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Mangwe,Ingwizi - 100639 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Ingwizi Rural Health Centre,Ingwizi - 100639 - Clinic,ImEOeEnBhCe,ZW060703,ZW06,,Government,Rural,,
+MASHONALAND WEST,Sanyati,Ingezi - 100636 - Municipality,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Ingezi clinic,Ingezi - 100636 - Municipality,C78N7IY0RQT,ZW040636,ZW04,,,Rural,,
+MIDLANDS,Mberengwa,Ingezi - 100637 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Ingezi Clinic,Ingezi - 100637 - Clinic,soB2Lgw5gnB,ZW070635,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Inamo Farming Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Inamo Farming Clinic,Inamo Farming Clinic,iRJpPiZ2OXR,ZW040799,ZW04,,,Rural,,
+MATEBELELAND NORTH,Umguza,Igusi - 100628 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Igusi Rural Health Centre,Igusi - 100628 - Clinic,qiTBYlmXMwX,ZW050703,ZW05,,Government,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Igava - 100627 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Igava Council Clinic,Igava - 100627 - Clinic,IIA4YLWqC6F,ZW030545,ZW03,,Town/City Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mazowe,Iron Duke - 100645 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mazowe,I/DUKE,Iron Duke - 100645 - Clinic,ArQWoi5EBdb,ZW020476,ZW02,,Gvt,Mining,Secondary,Open
+MATEBELELAND SOUTH,Bulilima,Huwana - 100620 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Huwana Clinic,Huwana - 100620 - Clinic,rkQa7RnEWDS,ZW060202,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Hurungwe,Hurungwe - 100619 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Hurungwe Rural Hospital,Hurungwe - 100619 - Rural Hospital,iaOOpWV2fiF,ZW04020B,ZW04,,,Rural,,
+MASHONALAND CENTRAL,Mazowe,Howard - 100611 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Mazowe,HOWARD,Howard - 100611 - Mission Hospital,zD7ADf9HixR,ZW02040C,ZW02,,Mission,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,How Mine - 100610 - Mine Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,How Mine Clinic,How Mine - 100610 - Mine Clinic,e4A1s0LVXW8,ZW060676,ZW06,,Mine,Rural,,
+MASHONALAND CENTRAL,Mazowe,Horta Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,HORTA,Horta Clinic,D8mSnH95ECd,ZW020490,ZW02,,Council,Farming,Primary,Open
+MATEBELELAND SOUTH,Matobo,Homestead - 100606 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Homestead Rural Health Centre,Homestead - 100606 - Rural Health Centre,Zjgwzp0iPau,ZW060503,ZW06,,Government,Rural,,
+MASHONALAND EAST,UMP,Hombiro Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Hombiro Clinic,Hombiro Clinic,Jv9z4R9jYGY,ZW030340,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mazowe,Holmeden - 100602 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,HOLME EDEN,Holmeden - 100602 - Clinic,nBhXXzVv97q,ZW020446,ZW02,,Council,Farming,Primary,Open
+MANICALAND,Mutare,Hob House - 100601 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Hobhouse Clinic,Hob House - 100601 - Clinic,zUEyrYaMPsk,ZW010560,ZW01,,Town/City Council,Urban,Primary,Open
+MATEBELELAND SOUTH,Bulilima,Hingwe - 100598 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Hingwe Rural Health Centre,Hingwe - 100598 - Clinic,pAUXg8FfZlS,ZW060220,ZW06,,Government,Rural,,
+MASHONALAND WEST,Hurungwe,Hesketh - 100591 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Hesketh Clinic,Hesketh - 100591 - Council Clinic,P7NGBmcP9C5,ZW040246,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Herbert Chitepo,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Herbert Chitepo,Herbert Chitepo,Hiy4IS8bwoM,ZW040794,ZW04,,Rural Council,Peri-Urban,Primary,RURAL
+MASHONALAND EAST,Goromonzi,John Reimer - 100668 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Henry John Reimer Clinic,John Reimer - 100668 - Clinic,qu3G86fX87g,ZW030247,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mazowe,Henderson Research - 100590 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,HENDERSON,Henderson Research - 100590 - Clinic,AQIqrtTtCJk,ZW020475,ZW02,,Council,Farming,Primary,Open
+MASHONALAND WEST,Hurungwe,Hewiyai - 100592 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Helwin Clinic,Hewiyai - 100592 - Council Clinic,FErcn3drSxC,ZW040245,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutasa,Hauna - 100586 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Hauna District Hospital,Hauna - 100586 - District Hospital,ivSpKPosBuc,ZW01060F,ZW01,,Government,Rural,,Open
+MANICALAND,Mutasa,Hauna - 101855 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Hauna Clinic,Hauna - 101855 - Clinic,S9ItwIxzitL,ZW010627,ZW01,,Rural Council,Rural,,Open
+MASVINGO,Zaka,Harava - 100583 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Harava Rural Health Centre,Harava - 100583 - Rural Health Centre,s0NGujuznMj,ZW080702,ZW08,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Umzingwane,Habani - 100578 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Habane Clinic,Habani - 100578 - Clinic,MJItwbZps26,ZW060626,ZW06,,Rural Council,Rural,,
+HARARE,Harare,Budiriro - 100098 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Budiriro PolyClinic,Budiriro - 100098 - Poly Clinic,xYSGGiMshib,ZW000A09,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Budiriro - 101889 - Satelite Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Budiriro Satellite Clinic,Budiriro - 101889 - Satelite Clinic,XVardljEe1B,ZW000A69,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Cesshar Mbare,Global Fund,CESSHAR,ACTIVE,Health facility,Harare,Cesshar Mbare,Cesshar Mbare,cnmWmKfu0St,ZW000A2601,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Eastly - 100433 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Eastley FHS Clinic,Eastly - 100433 - Clinic,JCa4cIM0RG8,ZW000A10,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Gazaland Comm Post,PEPFAR,ZACH,ACTIVE,Community Post,Harare,Gazaland Comm Post,Gazaland Comm Post,ZW010347,ZW010347,ZW01,,,Urban,,
+HARARE,Harare,Glen Norah - 100506 - Satellite clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Glen Norah Satellite Clinic,Glen Norah - 100506 - Satellite clinic,DJjkezUgUFu,ZW000A11,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Glen View  - 100508 - Satellite clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Glen View Satellite Clinic,Glen View  - 100508 - Satellite clinic,eduFmnFLTUs,ZW000A14,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Glen View - 100507 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Glen View PolyClinic,Glen View - 100507 - Poly clinic,ja1btrIkyqi,ZW000A13,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Greendale - 100535 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Greendale FHS Clinic,Greendale - 100535 - Clinic,PkocfPqfGu8,ZW000A15,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Hatcliffe - 100584 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Hatcliffe PolyClinic,Hatcliffe - 100584 - Poly clinic,XS02URbnDnM,ZW000A17,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Hatfield - 100585 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Hatfield Clinic,Hatfield - 100585 - Clinic,cHDIcWqWkBu,ZW000A44,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Highfield - 100593 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Highfield PolyClinic,Highfield - 100593 - Poly Clinic,t4lPPMcgk0s,ZW000A18,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Highlands - 100596 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Highlands FHS Clinic,Highlands - 100596 - Clinic,ASj7bwCPpfG,ZW000A52,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Highlands PCC,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Highlands Primary Care Clinic,Highlands PCC,P2FWzBdox8O,ZW000A46,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Hopley - 100608 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Hopley Clinic,Hopley - 100608 - Clinic,oRwZ75p6Z00,ZW000A53,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Kambuzuma - 100695 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Kambuzuma PolyClinic,Kambuzuma - 100695 - Poly clinic,IcMRUqrfO0g,ZW000A19,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Kuwadzana - 100751 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Kuwadzana PolyClinic,Kuwadzana - 100751 - Poly Clinic,mgvYC5iaGlA,ZW000A20,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Kuwadzana Phase 4 -101851- Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Kuwadzana Phase 4 -101851- Clinic,,,ZW000A68,,,,,,
+HARARE,Harare,Mabelreign - 100791 - satellite clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mabelreign Satellite Clinic,Mabelreign - 100791 - satellite clinic,GiKSrbGbNAC,ZW000A21,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mabvazuva,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Mabvazuva,,,333,,,,,,
+HARARE,Harare,Mabvuku - 100796 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mabvuku Satellite,Mabvuku - 100796 - Clinic,zENFk5xSzeW,ZW000A47,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mabvuku - 100797 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mabvuku PolyClinic,Mabvuku - 100797 - Poly Clinic,sntNZ6rKWvX,ZW000A23,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Malborough - 100860 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Marlborough Satellite Clinic,Malborough - 100860 - Council Clinic,yUbJDbhL4cI,ZW000A45,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Matapi - 100944 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Matapi Clinic,Matapi - 100944 - Clinic,exKZ5IdVQyh,ZW000A25,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mbare - 100987 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mbare PolyClinic,Mbare - 100987 - Poly clinic,AzZ3WumAYih,ZW000A27,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mbare Hostels - 100988 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mbare Hostels Clinic,Mbare Hostels - 100988 - Clinic,NPoi0Ng8a6c,ZW000A26,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mt. Pleasant - 101062 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mount Pleasant Clinic,Mt. Pleasant - 101062 - Clinic,wxMqwERkFUm,ZW000A28,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mufakose - 101085 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mufakose PolyClinic,Mufakose - 101085 - Poly clinic,fhbHedZcFX3,ZW000A29,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Mufakose FHS,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Mufakose FHS,Mufakose FHS,ZW000A114,ZW000A114,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Parirenyatwa Primary Care - 101852 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Parirenyatwa Clinic,Parirenyatwa Primary Care - 101852 - Clinic,XegPY4kjPBc,ZW000A30,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Rujeko  - 101469 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Rujeko PolyClinic,Rujeko  - 101469 - Poly clinic,pm1bccUnuIo,ZW000A33,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Harare,Rutsanana - 101491 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Rutsanana PolyClinic,Rutsanana - 101491 - Clinic,WDf2wSPeJPp,ZW000A34,ZW00,,Town/City Council,Urban,Primary,
+HARARE,Chitungwiza,Seke North - 101533 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Harare,Seke North Clinic,Seke North - 101533 - Clinic,xjDifmwK0wG,ZW000B02,ZW00,,Town/City Council,Urban,Primary,Open
+MIDLANDS,Gweru,Gweru - 100572 - Provincial Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Gweru Provincial Hospital,Gweru - 100572 - Provincial Hospital,pQhsTO2zXMS,ZW07040A,ZW07,,Government,Urban,Secondary,
+MIDLANDS,Gweru,Gweru- 101883 -District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Gweru District Hospital,Gweru- 101883 -District Hospital,R0AbzHF3tB6,ZW07040B,ZW07,,Government,Urban,Secondary,
+MATEBELELAND NORTH,Nkayi,Gwelutshena - 100569 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Gwelutshena Clinic,Gwelutshena - 100569 - Rural Health Centre,htw8zSoHZp1,ZW050533,ZW05,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Insiza,Gwatemba - 100566 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Gwatemba Rural Health Centre,Gwatemba - 100566 - Rural Health Centre,y6M9rtUuWa9,ZW060402,ZW06,,Government,Rural,,
+MIDLANDS,Mberengwa,Gwarava - 100565 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Gwarawa Rural Health Centre,Gwarava - 100565 - Rural Health Centre,l41qggZoaFK,ZW070601,ZW07,,Government,Rural,Primary,Open
+MIDLANDS,Gokwe South,Gwanyika - 100562 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Gwanyika Rural Health Centre,Gwanyika - 100562 - Rural Health Centre,cBe8uJrLNGC,ZW070301,ZW07,,Government,Rural,Primary,
+MATEBELELAND NORTH,Lupane,Gwayi Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Lupane,Gwaai Rural Health Centre,Gwayi Clinic,nEvQQz0S9nn,ZW050492,ZW05,,Town/City Council,Rural,Primary,Open
+MATEBELELAND NORTH,Nkayi,Guwe - 100560 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Guwe Clinic,Guwe - 100560 - Rural Health Centre,NWqYAWOBoaJ,ZW050532,ZW05,,Town/City Council,Rural,Primary,Open
+MASVINGO,Masvingo,Guwa - 100559 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Guwa Rural Health Centre,Guwa - 100559 - Clinic,swgwGmtq9YH,ZW080540,ZW08,,Govt,Rural,Primary,Open
+MASVINGO,Gutu,Gutu Rural - 100558 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Gutu Rural Hospital,Gutu Rural - 100558 - Clinic,hhrSCqMznTy,ZW08040A,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Gutu,Gutu - 100557 - Mission Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Gutu Mission Hospital,Gutu - 100557 - Mission Hospital,lMPbb0M4NRu,ZW08040E,ZW08,,Mission,Rural,Secondary,Open
+MASVINGO,Masvingo,Gurajena - 100551 - Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Gurajena Rural Health Centre,Gurajena - 100551 - Hospital,Oqk09GQNE6K,ZW080541,ZW08,,Govt,Rural,Primary,Open
+MATEBELELAND SOUTH,Gwanda,Gungwe - 100548 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Gungwe RHC,Gungwe - 100548 - Rural Health Centre,KlVFxBUmMPa,ZW060301,ZW06,,Government,Rural,,
+MIDLANDS,Gweru,Gunde - 100545 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Gunde Rural Health Centre,Gunde - 100545 - Clinic,VbSjaVx4t0f,ZW070401,ZW07,,Government,Rural,Primary,
+MASVINGO,Zaka,Gumbo - 100541 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Gumbo,Gumbo - 100541 - Clinic,dVYZfmaQlZu,ZW080734,ZW08,,,Rural,,
+MATEBELELAND SOUTH,Matobo,Gulati - 100540 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Gulati Rural Health Center,Gulati - 100540 - Rural Health Centre,kEC31WjP2wR,ZW060581,ZW06,,Government,Rural,,
+MASHONALAND EAST,Murehwa,Goso - 100526 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Murewa,Goso Rural Health Centre,Goso - 100526 - Clinic,pBj3XPhHiO5,ZW030772,ZW03,,Mission,Rural,clinic,Active
+MASHONALAND CENTRAL,Mbire,Gonono - 100519 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Gonono Clinic,Gonono - 100519 - Clinic,no6SbAPoA7s,ZW020831,ZW02,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Lupane,Gomoza - 100517 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Gomoza Rural Health Centre,Gomoza - 100517 - Rural Health Centre,t9C5ajv1YF5,ZW050404,ZW05,,Government,Rural,Primary,Open
+MIDLANDS,Kwekwe,Gomola - 100516 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Gomola,Gomola - 100516 - Clinic,yuQafsH22Bi,ZW070583,ZW07,,,Rural,,
+MIDLANDS,Gokwe South,Gokwe - 100513 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Gokwe South District Hospital,Gokwe - 100513 - District Hospital,OrydhbKFg8H,ZW07030A,ZW07,,Government,Rural,Secondary,
+HARARE,Chitungwiza,Seke South - 101534 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Harare,Seke South Clinic,Seke South - 101534 - Clinic,cswicu2amtm,ZW000B01,ZW00,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Mhondoro,Gavhunga - 100496 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mhondoro,Gavhunga - 100496 - Clinic,Gavhunga - 100496 - Clinic,GKhq9nMgfU9,ZW040519,ZW04,,,Rural,,
+MATEBELELAND SOUTH,Gwanda,Garanyemba - 100490 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Garanyemba Clinic,Garanyemba - 100490 - Clinic,bB4csCSIDEn,ZW060331,ZW06,,Rural Council,Rural,,
+MANICALAND,Buhera,Garamwera - 100489 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Garamwera,Garamwera - 100489 - Clinic,g9SCxKLS1Rl,ZW010118,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Makonde,Gamanya - 100484 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,Gamanya RDC clinic,Gamanya - 100484 - Clinic,HfeDBniK6Sa,ZW040485,ZW04,,,Rural,,
+MIDLANDS,Mberengwa,Gaha - 100482 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Gaha Clinic,Gaha - 100482 - Clinic,dAuWnsrDRVU,ZW070676,ZW07,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Matobo,Fumugwe - 100479 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Fumugwe,Fumugwe - 100479 - Clinic,QBWN4VDaKc9,ZW060506,ZW06,,Town/City Council,Rural,,
+MASHONALAND CENTRAL,Mazowe,Forrester - 100476 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,FORRESTER,Forrester - 100476 - Clinic,B0qok3j6tWR,ZW020485,ZW02,,Pvt,Farming,Primary,Open
+MANICALAND,Mutare,Florida - 100472 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Florida Clinic,Florida - 100472 - Clinic,GmBfBIZu0RH,ZW010565,ZW01,,Town/City Council,Urban,Primary,Open
+MASVINGO,Chiredzi,Faversham - 100465 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Faversham Clinic,Faversham - 100465 - Clinic,fHlFvOJjEZa,ZW080211,ZW08,,Government,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Father O'Hea - 100463 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Zvimba,Father O'Hea Mission Hospital,Father O'Hea - 100463 - Mission Hospital,pw6aAMuYZOz,ZW04070E,ZW04,,Mission,Rural,Secondary,RURAL
+MATEBELELAND NORTH,Nkayi,Fanison - 100461 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Fanison Rural Health Centre,Fanison - 100461 - Rural Health Centre,UhdvTazmVfs,ZW050525,ZW05,,,Rural,,
+MIDLANDS,Kwekwe,Exchange - 100457 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Exchange Clinic,Exchange - 100457 - Clinic,NGyX8ov4BLC,ZW070526,ZW07,,Rural Council,Rural,Primary,
+MATEBELELAND SOUTH,Umzingwane,Esigodini - 100456 - District Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Esigodini District Hospital,Esigodini - 100456 - District Hospital,EJIkhGYlQVb,ZW06060A,ZW06,,Government,Rural,,
+MATEBELELAND SOUTH,Umzingwane,Esibobvu - 100455 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Esibomvu Clinic,Esibobvu - 100455 - Clinic,SjvPWQ5l2gT,ZW060625,ZW06,,Rural Council,Rural,,
+HARARE,Epworth,Epworth - 100451 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Epworth Polyclinic,Epworth - 100451 - Poly Clinic,Dr2dULfqvTS,ZW030926,ZW03,,Town/City Council,Urban,clinic,Active
+HARARE,Epworth,Epworth - 100452 - Mission Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Seke,Epworth Mission Clinic,Epworth - 100452 - Mission Clinic,EC7WzIzlIiy,ZW030990,ZW03,,Mission,Urban,clinic,Active
+Bulawayo,Bulawayo,Entumbane - 100449 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Entumbane Clinic,Entumbane - 100449 - Clinic,KIAW84qSifO,ZW090A04,ZW09,,Private,Urban,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Empandeni - 100445 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Empandeni Mission Clinic,Empandeni - 100445 - Clinic,JOr33aW1Qul,ZW060792,ZW06,,Mission,Rural,,
+MATEBELELAND SOUTH,Mangwe,Embakwe - 100444 - Mission Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Embakwe Mission Hospital,Embakwe - 100444 - Mission Hospital,csZvGNTFp2K,ZW06070E,ZW06,,Mission,Rural,,
+Bulawayo,Bulawayo,Emakhandeni - 100443 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Emakhandeni Clinic,Emakhandeni - 100443 - Clinic,cIHo19pHPnw,ZW090A01,ZW09,,Town/City Council,Urban,Primary,Open
+MATEBELELAND SOUTH,Matobo,Ekukanyeni - 100439 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Ekukhanyeni Clinic,Ekukanyeni - 100439 - Clinic,RsSbNZR2lnR,ZW060505,ZW06,,Town/City Council,Rural,,
+Bulawayo,Bulawayo,E.F. Watson - 100429 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,EF Watson Clinic,E.F. Watson - 100429 - Clinic,oZk9I1XeSu9,ZW090A03,ZW09,,Private,Urban,Primary,Open
+MASHONALAND WEST,Zvimba,Dzivarasekwa Extension - 100428 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Dzivaresekwa gvt Clinic,Dzivarasekwa Extension - 100428 - Clinic,XwzKYKZooxk,ZW040780,ZW04,,Government,Urban,Primary,TOWN
+MATEBELELAND SOUTH,Beitbridge,Dulibadzimu - 100423 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Dulibadzimu Clinic,Dulibadzimu - 100423 - Clinic,cLOvKUEH5RN,ZW060126,ZW06,,Town/City Council,Urban,,
+MATEBELELAND SOUTH,Umzingwane,Dula Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Umzingwane,Dula Clinic,Dula Clinic,B9HL312kFTS,ZW060635,ZW06,,Rural Council,Rural,,
+Bulawayo,Bulawayo,Dr. Shennan - 100418 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Dr Shennan Clinic,Dr. Shennan - 100418 - Clinic,gs4v5i69tux,ZW090A14,ZW09,,Town/City Council,Urban,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Dotito - 100416 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,DOTITO,Dotito - 100416 - Clinic,LcUXPpHZu3n,ZW020501,ZW02,,GOVERNMENT,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Doro - 100413 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Doro Clinic,Doro - 100413 - Clinic,hJfPQt6G26t,ZW040299,ZW04,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Dora - 100411 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Dora Clinic,Dora - 100411 - Clinic,OdVIpeFRpxI,ZW010541,ZW01,,Rural Council,Rural,Primary,Open
+MIDLANDS,Kwekwe,Donsa - 100410 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Donsa,Donsa - 100410 - Clinic,tFiCFVJ3KLP,ZW070502,ZW07,,,Rural,,
+MIDLANDS,Kwekwe,Don Juan - 100404 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Donjuan Clinic,Don Juan - 100404 - Clinic,k4sThzc4zIy,ZW070525,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND CENTRAL,Mazowe,Donje - 100409 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,DONJE,Donje - 100409 - Clinic,x9pJIfSTTaY,ZW020406,ZW02,,Council,Farming,Primary,Open
+MASHONALAND WEST,Mhondoro,Dondoshava - 100406 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Dondoshava - 100406 - Clinic,Dondoshava - 100406 - Clinic,YSrqcKlCQUf,ZW030202,ZW03,,Government,Peri-Urban,clinic,Active
+MASHONALAND WEST,Mhondoro,Donain - 100405 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Donain Rural Health Centre,Donain - 100405 - Rural Health Centre,yraPEOZeIxX,ZW040502,ZW04,,Government,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Dombotombo - 100401 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Dombotombo Council Clinic,Dombotombo - 100401 - Clinic,oKyc3dnc5sJ,ZW030561,ZW03,,Town/City Council,Rural,clinic,Active
+MATEBELELAND SOUTH,Bulilima,Dombodema Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Dombodema Clinic,Dombodema Clinic,D79NwzzVJYp,ZW060225,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Makonde,Doma - 100397 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Doma RDC Clinic,Doma - 100397 - Clinic,QkRUl86fEkn,ZW040445,ZW04,,Rural Council,Rural,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Dlamini - 100396 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Dlamini Clinic,Dlamini - 100396 - Council Clinic,CS6Fp5VYQVZ,ZW050626,ZW05,,Town/City Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Dingumuzi - 100394 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Dingumuzi Clinic,Dingumuzi - 100394 - Clinic,YaLsThHfLT9,ZW060745,ZW06,,Rural Council,Urban,,
+MASHONALAND EAST,UMP,Dindi Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Dindi Clinic,Dindi Clinic,H4QiZSaiFt1,ZW030391,ZW03,,Mission,Rural,clinic,Active
+MASHONALAND EAST,Marondera,Dimbiti - 100390 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Dimbiti Rural Health Centre,Dimbiti - 100390 - Rural Health Centre,cxkXNo5Bctw,ZW030503,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Gutu,Devure - 100387 - Mission Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Dewure Clinic,Devure - 100387 - Mission Clinic,VYPAMdNSEQf,ZW080427,ZW08,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,UMP,Dewe - 100389 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Dewe Council Clinic,Dewe - 100389 - Clinic,nSvEwzl9xRr,ZW030338,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mazowe,Davaar - 100369 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,DAVAAR,Davaar - 100369 - Clinic,Yg65gRsms6Z,ZW020410,ZW02,,Council,Farming,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Mt. Darwin - 101058 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,DARWIN HOSPITAL,Mt. Darwin - 101058 - District Hospital,HB7NldDkyx4,ZW02050A,ZW02,,GOVERNMENT,Urban,Secondary,Open
+MASHONALAND WEST,Zvimba,Darwendale - 100368 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Darwendale Rural Hospital,Darwendale - 100368 - Rural Hospital,NfFDWgYghbO,ZW04070C,ZW04,,Government,Peri-Urban,Primary,RURAL
+MANICALAND,Mutare,Dangamvura - 100366 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Dangamvura Clinic,Dangamvura - 100366 - Clinic,cr9XgOrqJwk,ZW010563,ZW01,,Town/City Council,Urban,Primary,Open
+MATEBELELAND NORTH,Lupane,Dandanda - 100364 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Dandanda Rural Health Centre,Dandanda - 100364 - Clinic,zVFAdwFdTqT,ZW050402,ZW05,,Government,Rural,Primary,Open
+MIDLANDS,Kwekwe,Dambridge - 100362 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Dambridge Clinic,Dambridge - 100362 - Clinic,dMwOTm1TWlM,ZW070588,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND CENTRAL,Mazowe,Dambo - 100361 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,DAMBO,Dambo - 100361 - Clinic,XoF377WoLf2,ZW020484,ZW02,,Council,Rural,Primary,Open
+MATEBELELAND NORTH,Nkayi,Dakamela - 100357 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Dakamela Rural Hospital,Dakamela - 100357 - Rural Hospital,t3OBvsoUoKO,ZW05050B,ZW05,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Matobo,Cyrene - 100354 - Mission Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Cyrene Mission Clinic,Cyrene - 100354 - Mission Clinic,jxSgfvRa1kd,ZW060594,ZW06,,Mission,Rural,,
+MASHONALAND WEST,Mhondoro,Cuba RDC Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Cuba RDC Clinic,Cuba RDC Clinic,ljDQKOHpFdV,ZW040580,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Cranham - 100351 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,CRANHAM,Cranham - 100351 - Clinic,hqCNPGSdIvI,ZW020491,ZW02,,Council,Farming,Primary,Open
+Bulawayo,Bulawayo,Cowdray Park - 100348 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Cowdray Park Clinic,Cowdray Park - 100348 - Clinic,AQUWX00pVHC,ZW090A27,ZW09,,Town/City Council,Urban,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Concession  - 100345 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,CONCESSION,Concession  - 100345 - District Hospital,SihUCg36v0Y,ZW02040A,ZW02,,Gvt,Urban,Secondary,Open
+MANICALAND,Chipinge,Clear Water - 100341 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Clearwater Clinic,Clear Water - 100341 - Clinic,hLbmGUUNsKW,ZW010362,ZW01,,Private,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Chundu - 100334 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Chundu Clinic,Chundu - 100334 - Council Clinic,YcnSBJxA8OR,ZW040226,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Christon Bank - 100332 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,Christon Bank,Christon Bank - 100332 - Clinic,FOS62YkMuso,ZW020430,ZW02,,Council,Farming,Primary,Open
+MASVINGO,Chiredzi,Chizvirizvi - 100329 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Chizvirizvi Rural Health Centre,Chizvirizvi - 100329 - Clinic,c4XotWaksY0,ZW080204,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Gweru,Chiundura - 100309 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Chiwundura Clinic,Chiundura - 100309 - Clinic,UcsFwpVoOEX,ZW070425,ZW07,,Rural Council,Rural,Primary,
+MANICALAND,Buhera,Chiweshe - 100324 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Chiweshe,Chiweshe - 100324 - Clinic,JXKy9DJE3gm,ZW010131,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Chiwere - 100323 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chiwere Clinic,Chiwere - 100323 - Rural Health Centre,h22FuA9Lid3,ZW010508,ZW01,,Government,Rural,Primary,Open
+MASVINGO,Chivi,Chivi - 100319 - Rural Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Chivi Rural Hospital,Chivi - 100319 - Rural Hospital,BbcsNsBiQJM,ZW08030B,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Chivi,Chivi - 100318 - Mission Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Chivi Mission Clinic,Chivi - 100318 - Mission Clinic,ZPy0zZuQJHc,ZW080391,ZW08,,Mission,Rural,Primary,Open
+MASVINGO,Chivi,Chivi - 100317 - District Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Chivi District Hospital,Chivi - 100317 - District Hospital,laeJBf3k7tI,ZW08030A,ZW08,,Government,Rural,Secondary,Open
+MASHONALAND WEST,Zvimba,Chivhere - 100314 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Chivhere Rural Health Centre,Chivhere - 100314 - Clinic,NEEMoSMYjkl,ZW040701,ZW04,,Government,Rural,Primary,RURAL
+MASHONALAND WEST,Chegutu,Chivero - 100312 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Chivero Clinic,Chivero - 100312 - Council Clinic,WlGebuwqSYe,ZW040126,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Chivende - 100311 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Chivende Rural Health Centre,Chivende - 100311 - Clinic,p5eSg7zH2Ua,ZW040202,ZW04,,Government,Rural,Primary,Open
+MATEBELELAND SOUTH,Beitbridge,Chituripasi - 100308 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Chituripasi,Chituripasi - 100308 - Rural Health Centre,pNbIgW9kn5C,ZW060102,ZW06,,,Urban,,
+MASHONALAND CENTRAL,Mbire,Chitsungo - 100303 - District Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Chitsungo Mission Hospital,Chitsungo - 100303 - District Hospital,bD6z1vyugsJ,ZW02080B,ZW02,,Mission,Rural,Secondary,Open
+MASHONALAND EAST,UMP,Chitsungo - 100304 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Chitsungo Clinic,Chitsungo - 100304 - Clinic,oIYkbx5fHc7,ZW030329,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mt Darwin,Chitse - 100302 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,CHITSE,Chitse - 100302 - Clinic,ezrtbyWSQiW,ZW020534,ZW02,,COUNCIL,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,Chitowa 2 - 100299 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Chitowa 2 Clinic,Chitowa 2 - 100299 - Clinic,LHSm0lh6M97,ZW030724,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,Murehwa,Chitowa 1 - 100298 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Chitowa 1 Clinic,Chitowa 1 - 100298 - Rural Health Centre,aVxN3fDFGhM,ZW030723,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,UMP,Chitimbe - 100293 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Chitimbe Clinic,Chitimbe - 100293 - Clinic,VUCULT4GjUW,ZW030328,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND CENTRAL,Mt Darwin,Chitepo - 100292 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,CHITEPO,Chitepo - 100292 - Clinic,iizFNeVVhBs,ZW020535,ZW02,,COUNCIL,Rural,Primary,Open
+MASHONALAND EAST,Murehwa,Chitate - 100290 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Murewa,Chitate Rural Health Centre,Chitate - 100290 - Rural Health Centre,eG8FExPZMv1,ZW030701,ZW03,,Government,Rural,clinic,Active
+MASVINGO,Gutu,Chitando - 100287 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Chitando Rural Health Centre,Chitando - 100287 - Rural Health Centre,lO6DFAvjICL,ZW080408,ZW08,,Government,Rural,Primary,Open
+MANICALAND,Mutare,Chitakatira - 100285 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chitakatira Clinic,Chitakatira - 100285 - Clinic,RyINk05jngO,ZW010529,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Chirunya - 100276 - Rural Health Centre,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Chirunya Clinic,Chirunya - 100276 - Rural Health Centre,MTFVtgDQ96i,ZW020834,ZW02,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Chirundu - 100275 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Chirundu Rural Health Centre,Chirundu - 100275 - Clinic,xgDkjMab2vS,ZW040201,ZW04,,Government,Rural,Primary,Open
+MASVINGO,Mwenezi,Chirindi - 100268 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Chirindi Rural Health Centre,Chirindi - 100268 - Clinic,KGODrJyUU0d,ZW080602,ZW08,,Government,Rural,Primary,Open
+MASHONALAND WEST,Sanyati,Chirikiti - 100267 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Chirikiti - 100267 - Council Clinic,Chirikiti - 100267 - Council Clinic,zdRJRa8PBvL,ZW040621,ZW04,,,Rural,,
+MASVINGO,Chiredzi,Chiredzi - 100264 - Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Chiredzi District Hospital,Chiredzi - 100264 - Hospital,cnqg74tvFv1,ZW08020A,ZW08,,Government,Urban,Secondary,Open
+MASVINGO,Zaka,Chiredzana - 100263 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Chiredzana Clinic,Chiredzana - 100263 - Clinic,m1d3Az0zvDK,ZW080729,ZW08,,Rural Council,Rural,Primary,Open
+MASVINGO,Chiredzi,Chipiwa - 100259 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Chipiwa Clinic,Chipiwa - 100259 - Clinic,lgDPtblnWoX,ZW080226,ZW08,,Rural Council,Rural,Primary,Open
+MANICALAND,Chipinge,Chipinge Town - 100257 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Chipinge Town Clinic,Chipinge Town - 100257 - Clinic,Z3mLXNOy7eM,ZW010349,ZW01,,Town/City Council,Urban,Primary,Open
+MANICALAND,Chipinge,Chipinge - 100256 - District Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Chipinge District Hospital,Chipinge - 100256 - District Hospital,ZW01030A,ZW01030A,ZW01,,Government,Urban,Primary,Open
+MASHONALAND WEST,Makonde,Chipfuwamiti Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Makonde,Chipfuwamiti Clinic,Chipfuwamiti Clinic,us3vArKUv5J,ZW040491,ZW04,,Rural Council,Rural,Primary,Open
+MASHONALAND EAST,UMP,Chipfunde - 100253 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Chipfunde Clinic,Chipfunde - 100253 - Clinic,SDyRVyw5bTp,ZW030327,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Mutare,Chipfatsura - 100252 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chipfatsura,Chipfatsura - 100252 - Clinic,sySIljgDD4k,ZW010527,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Mutare,Chipendeke - 100251 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chipendeke Clinic,Chipendeke - 100251 - Rural Health Centre,gukxzjQHdEA,ZW010544,ZW01,,Government,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Chiparawe - 100250 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Chipararwe Council Clinic,Chiparawe - 100250 - Clinic,fc6CsjpLvS6,ZW030529,ZW03,,Government,Rural,clinic,Active
+MASHONALAND EAST,Marondera,Chiota - 100247 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Chiota Rural Hospital,Chiota - 100247 - Rural Hospital,d7gKjgLmPHF,ZW03050B,ZW03,,Government,Rural,Rural Hospital,Active
+MASVINGO,Gutu,Chinyika - 100243 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Chinyika Rural Hospital,Chinyika - 100243 - Rural Health Centre,gQu3bUzI3bn,ZW08040D,ZW08,,Government,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Chinyika - 100242 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Chinyika Clinic,Chinyika - 100242 - Clinic,k8Xcni81ZqV,ZW030226,ZW03,,Rural Council,Rural,clinic,Active
+MANICALAND,Chipinge,Chinyamukwaka - 100240 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Chinyamukwakwa Rural Health Centre,Chinyamukwaka - 100240 - Clinic,ZW010303,ZW010303,ZW01,,Government,Rural,Primary,Open
+MASHONALAND WEST,Makonde,Chinhoyi  - 100235 - Provincial Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Chinhoyi Provincial Hospital,Chinhoyi  - 100235 - Provincial Hospital,Jna4eqryjis,ZW04040A,ZW04,,Government,Urban,Primary,Open
+MASHONALAND WEST,Makonde,Chinhoyi Clinic - 100233 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Chinhoyi Munic Clinic,Chinhoyi Clinic - 100233 - Clinic,FEkAkg5Ev7k,ZW040461,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND WEST,Hurungwe,Chinhere - 100232 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Hurungwe,Chinhere Clinic,Chinhere - 100232 - Council Clinic,ImqILPZv3dP,ZW040225,ZW04,,RDC,Rural,Primary,Open
+MASVINGO,Mwenezi,Chingwizi - 100230 - Satelite Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Chingwizi Clinic,Chingwizi - 100230 - Satelite Clinic,GUyrKhGPkmB,ZW080608,ZW08,,Government,Rural,Primary,Open
+MASHONALAND WEST,Mhondoro,Chingondo - 100229 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mhondoro,Chingondo RDC Clinic,Chingondo - 100229 - Clinic,Psij86nmKUz,ZW040518,ZW04,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Chingezi - 100228 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Chingezi Clinic,Chingezi - 100228 - Clinic,rhEss5YJ0lt,ZW070628,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Chegutu,Chinengundu - 100225 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Chinengundu Clinic,Chinengundu - 100225 - Clinic,cie0TDpTUmD,ZW040162,ZW04,,Town/City Council,Urban,Primary,Open
+MASHONALAND CENTRAL,Mazowe,Chinehasha - 100224 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mazowe,CHINEHASHA,Chinehasha - 100224 - Clinic,AbdP0AhLQ0K,ZW020401,ZW02,,Gvt,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Chinamhora - 100219 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Chinamhora Clinic,Chinamhora - 100219 - Clinic,vts8c377DeQ,ZW030225,ZW03,,Rural Council,Peri-Urban,clinic,Active
+MIDLANDS,Gweru,Chinamasa - 100217 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Chinamasa Clinic,Chinamasa - 100217 - Clinic,TqCxTt2cnSm,ZW070424,ZW07,,Rural Council,Rural,,Open
+MASVINGO,Gutu,Chimombe - 100215 - Rural Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Chimombe Rural Hospital,Chimombe - 100215 - Rural Hospital,kaYiMIvMi6q,ZW08040B,ZW08,,Government,Rural,Primary,Open
+MASHONALAND EAST,Marondera,Chimbwanda - 100212 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Chimbwanda Rural Health Centre,Chimbwanda - 100212 - Rural Health Centre,RmTXZhMHgQJ,ZW030502,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Mwenezi,Chimbudzi - 100211 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Chimbudzi Rural Health Centre,Chimbudzi - 100211 - Clinic,bA0TiXkTzDI,ZW080601,ZW08,,Government,Rural,Primary,Open
+MASVINGO,Chiredzi,Chilonga - 100206 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Chilonga Rural Health Centre,Chilonga - 100206 - Clinic,kOc9rm7UnpQ,ZW080202,ZW08,,Government,Rural,Primary,Open
+MIDLANDS,Gweru,Child Welfare - 100205 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Child Welfare Clinic,Child Welfare - 100205 - Clinic,JRHi4DxHO3h,ZW070469,ZW07,,Town/City Council,Urban,Primary,
+MANICALAND,Mutare,Chikwariro - 100201 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chikwariro Clinic,Chikwariro - 100201 - Mission Hospital,Ju7yjwNpnZc,ZW010591,ZW01,,Mission,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Chikwaka - 100198 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Chikwaka Rural Hospital,Chikwaka - 100198 - Rural Hospital,il3zin8lfAX,ZW03020D,ZW03,,Government,Rural,Hospital,Active
+MASHONALAND EAST,UMP,Chikuhwa - 100193 - Rural Health Centre,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Chikuhwa Clinic,Chikuhwa - 100193 - Rural Health Centre,XaZlii1RoeN,ZW030326,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND WEST,Makonde,Chikonohono - 100190 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Chikonohono Munic Clinic,Chikonohono - 100190 - Clinic,Sad5NyxeroB,ZW040462,ZW04,,Town/City Council,Urban,Primary,Open
+MASVINGO,Chiredzi,Chikombedzi - 100188 - Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Chiredzi,Chikombedzi Mission Hospital,Chikombedzi - 100188 - Hospital,ezd2O5cLGKR,ZW08020B,ZW08,,Mission,Rural,Secondary,Open
+MANICALAND,Mutare,Chikanga - 100182 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Chikanga Clinic,Chikanga - 100182 - Clinic,Tj9XAHdTx71,ZW010562,ZW01,,Town/City Council,Urban,Primary,Open
+MASHONALAND CENTRAL,Mbire,Chikafa - 100181 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mbire,Chikafa Clinic,Chikafa - 100181 - Clinic,taDfBHcDo5L,ZW020830,ZW02,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Chiedza - 100176 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Chiedza Clinic,Chiedza - 100176 - Clinic,dySKWJvcCwO,ZW070640,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Chidodo - 100172 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mbire,Chidodo Clinic,Chidodo - 100172 - Clinic,rWvbpl1s0VR,ZW020841,ZW02,,Rural Council,Rural,Primary,Open
+MIDLANDS,Mberengwa,Chedembeko - 100151 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Chidembeko Clinic,Chedembeko - 100151 - Clinic,n7JrJFbZSSY,ZW070627,ZW07,,Rural Council,Rural,Primary,Open
+MASHONALAND WEST,Hurungwe,Chidamoyo - 100169 - Mission Hospital,PEPFAR,ZACH,ACTIVE,Health facility,Hurungwe,Chidamoyo Mission Hospital,Chidamoyo - 100169 - Mission Hospital,BE3pL9m9Z4E,ZW04020D,ZW04,,Mission,Rural,Primary,Open
+MANICALAND,Chipinge,Chibuwe - 100167 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Chibuwe Clinic,Chibuwe - 100167 - Clinic,q8w6UsNPbMG,ZW010325,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Chibuli-100291- Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,CHIBULI,Chibuli-100291- Clinic,DDwUEgfOmvA,ZW020509,ZW02,,COUNCIL,Rural,Primary,Open
+MIDLANDS,Gokwe South,Cheziya - 100162 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Cheziya Clinic,Cheziya - 100162 - Clinic,g7fNiqyS7WV,ZW070313,ZW07,,Rural Council,Urban,Primary,
+MASVINGO,Gutu,Cheshuro - 100161 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Cheshuro Clinic,Cheshuro - 100161 - Clinic,BXwx8ekYJ5Z,ZW080425,ZW08,,Rural Council,Rural,Primary,Open
+MIDLANDS,Gokwe South,Chemahororo - 100156 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gokwe South,Chemahororo Clinic,Chemahororo - 100156 - Clinic,ZsERKMysaqk,ZW070325,ZW07,,Rural Council,Rural,Primary,
+MASHONALAND WEST,Chegutu,Chegutu - 100153 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Chegutu District Hospital,Chegutu - 100153 - District Hospital,IIjgprykVWn,ZW04010A,ZW04,,Government,Urban,Secondary,Open
+MASHONALAND WEST,Chegutu,Chegutu Urban - 100155 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Chegutu 6 - 100154 - Clinic,Chegutu Urban - 100155 - Council Clinic,kfRsOHTYdNb,ZW040626,ZW04,,,Urban,,
+MASHONALAND CENTRAL,Mt Darwin,Chawanda - 100146 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,CHAWANDA,Chawanda - 100146 - Clinic,G1nlIWi4Bbv,ZW020525,ZW02,,COUNCIL,Rural,Primary,Open
+MASVINGO,Masvingo,Chatikobo - 100144 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Chatikobo Clinic,Chatikobo - 100144 - Clinic,DthvHWxwhl8,ZW080526,ZW08,,RDC,Rural,Primary,Open
+MATEBELELAND SOUTH,Beitbridge,Chasvingo - 100143 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Chaswingo Clinic,Chasvingo - 100143 - Clinic,mzisptcnWiW,ZW060125,ZW06,,Rural Council,Rural,,
+MASVINGO,Masvingo,Charumbira - 100141 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Charumbira Clinic,Charumbira - 100141 - Clinic,TmpVq0GSnlG,ZW080525,ZW08,,RDC,Rural,Primary,Open
+MANICALAND,Buhera,Chapwanya - 100136 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Chapwanya,Chapwanya - 100136 - Clinic,XWTWzUKR92m,ZW010128,ZW01,,Rural Council,Rural,Primary,Open
+MASHONALAND CENTRAL,Mbire,Chapoto - 100135 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Chapoto Clinic,Chapoto - 100135 - Clinic,c4EBHa1fIyB,ZW020820,ZW02,,Rural Council,Rural,Primary,Open
+MANICALAND,Buhera,Chapanduka - 100134 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Chapanduka,Chapanduka - 100134 - Clinic,Di7OHhpjIr2,ZW010127,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Beitbridge,Chamunangana - 100132 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Beitbridge,Chamnangana Clinic,Chamunangana - 100132 - Clinic,OF8acIjcyKQ,ZW060177,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Sanyati,Chakari - 100125 - Mine Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Sanyati,Chakari Mine Clinic,Chakari - 100125 - Mine Clinic,sWdIWNMmkKd,ZW040689,ZW04,,Mine,Rural,Primary,Open
+MASHONALAND EAST,Goromonzi,Chabwino Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Chabwino Clinic,Chabwino Clinic,x7uSrjLfBIz,ZW030280,ZW03,,Rural Council,Rural,clinic,Active
+Bulawayo,Bulawayo,Cesshar,Global Fund,CESSHAR,ACTIVE,Health facility,Bulawayo,Cesshar,Cesshar,Bnxui2aaMdQ,ZW090A49,ZW09,,Private,Urban,Primary,Open
+MASHONALAND EAST,Goromonzi,Caledonia - 100115 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Caledonia Clinic,Caledonia - 100115 - Clinic,fYwjfliQY2j,ZW000A57,ZW00,,Rural Council,Peri-Urban,clinic,Active
+MASVINGO,Zaka,Bvukururu - 100110 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Bvukururu Clinic,Bvukururu - 100110 - Clinic,S6noqN7rl9N,ZW080726,ZW08,,Government,Rural,Primary,Open
+MASHONALAND CENTRAL,Mt Darwin,Bveke - 100108 - Clinic ,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,BVEKE,Bveke - 100108 - Clinic ,IZyeGpfJoyJ,ZW020529,ZW02,,COUNCIL,Rural,Primary,Open
+MATEBELELAND SOUTH,Gwanda,Buvuma - 100107 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Buvuma Clinic,Buvuma - 100107 - Clinic,B7i3EGdTPnj,ZW060325,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Mhondoro,Bururu - 100105 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mhondoro,Bururu - 100105 - Council Clinic,Bururu - 100105 - Council Clinic,Cjt4DyNcEEI,ZW040517,ZW04,,,Rural,,
+MANICALAND,Mutare,Burma Valley - 100103 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Burma Valley Clinic,Burma Valley - 100103 - Clinic,QBQZTIv1lrz,ZW010545,ZW01,,Rural Council,Rural,Primary,Open
+MANICALAND,Buhera,Buhera - 100099 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Buhera Rural Clinic,Buhera - 100099 - Rural Hospital,ZW01010A,ZW01010A,ZW01,,,Rural,,
+MATEBELELAND NORTH,Tsholotsho,Bubude - 100096 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Bubude Clinic,Bubude - 100096 - Clinic,Kwis9X2t9eb,ZW050625,ZW05,,Town/City Council,Rural,Primary,Open
+MASHONALAND WEST,Chegutu,Brunswick - 100094 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Brunswick Clinic,Brunswick - 100094 - Clinic,dMjkmGmNgG9,ZW040180,ZW04,,Rural Council,Peri-Urban,Primary,Open
+MASHONALAND EAST,Goromonzi,Bromley - 100093 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Bromley Clinic,Bromley - 100093 - Rural Health Centre,PKZ7nK4RQnj,ZW030245,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Mwenezi,Boterere - 100089 - Rural Health Centre,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Boterere Clinic,Boterere - 100089 - Rural Health Centre,XIv6Q7a9F0J,ZW080631,ZW08,,Rural Council,Rural,Primary,Open
+MASVINGO,Zaka,Bota - 100088 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Zaka,Bota Clinic,Bota - 100088 - Clinic,Ns9TN1yfjMZ,ZW080725,ZW08,,Mission,Rural,Primary,Open
+MASHONALAND EAST,UMP,Borera - 100084 - Clinic,PEPFAR,GoZ,ACTIVE,Health facility,UMP,Borera Clinic,Borera - 100084 - Clinic,UmcQPYAl0m4,ZW030325,ZW03,,Rural Council,Rural,clinic,Active
+MASHONALAND EAST,Goromonzi,Border Church - 100083 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Marondera,Border Church Rural Health Centre,Border Church - 100083 - Rural Health Centre,irD497FF3PV,ZW030501,ZW03,,Rural Council,Rural,clinic,Active
+MASVINGO,Masvingo,Bondolfi - 100082 - Rural Hospital,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Bondolfi Clinic,Bondolfi - 100082 - Rural Hospital,shU0JKeINLz,ZW080591,ZW08,,Mission,Rural,Primary,Open
+MANICALAND,Mutasa,Bonda - 100080 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Bonda Mission Hospital,Bonda - 100080 - Mission Hospital,RKN9HasIGRw,ZW01060B,ZW01,,Mission,Rural,,Open
+MIDLANDS,Mberengwa,Bonda Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mberengwa,Bonda Clinic,Bonda Clinic,yWRCzwtdVqp,ZW070625,ZW07,,Rural Council,Rural,Primary,Open
+MANICALAND,Buhera,Birchenough - 100075 - Rural Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Birchenough,Birchenough - 100075 - Rural Hospital,ZW01010B,ZW01010B,ZW01,,Government,Rural,Secondary,Open
+MATEBELELAND SOUTH,Bulilima,Bezu - 100066 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulilima,Bezu Clinic ,Bezu - 100066 - Clinic,KYBy3FfZcPu,ZW060234,ZW06,,Rural Council,Rural,,
+MASHONALAND WEST,Zvimba,Bevking - 100065 - Private Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Bevking - 100065 - Private Clinic,Bevking - 100065 - Private Clinic,ZW040790,ZW040790,,,,Rural,,
+MATEBELELAND SOUTH,Matobo,Beula - 100064 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Beula-seula Rural Health Centre,Beula - 100064 - Rural Health Centre,TBrKYpmE8ys,ZW060504,ZW06,,Government,Rural,,
+MANICALAND,Buhera,Betera - 100063 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Betera,Betera - 100063 - Rural Health Centre,hcUbMLN50UW,ZW010102,ZW01,,Government,Rural,Primary,Open
+MASVINGO,Chivi,Berejena - 100060 - Mission Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Chivi,Berejena Mission Hospital,Berejena - 100060 - Mission Clinic,TKcNzGxZmGw,ZW08030C,ZW08,,Mission,Rural,Primary,Open
+MASVINGO,Masvingo,Bere - 100059 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Bere Clinic,Bere - 100059 - Clinic,FUoqhbrAxqB,ZW080530,ZW08,,RDC,Rural,Primary,Open
+MATEBELELAND NORTH,Tsholotsho,Bemba - 100057 - Council Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Tsholotsho,Bemba - 100057 - Council Clinic,Bemba - 100057 - Council Clinic,JisbeOfzAQc,ZW050699,ZW05,,Town/City Council,Rural,Primary,Open
+HARARE,Harare,Southerton - 101619 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Southerton Clinic,Southerton - 101619 - Clinic,g8BfFOI44ii,ZW000A35,ZW00,,Town/City Council,Urban,Primary,
+MASHONALAND CENTRAL,Mazowe,Belgone Clinic - 100054 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,BELGOWNIE,Belgone Clinic - 100054 - Clinic,WwnLkxvPhNZ,ZW020445,ZW02,,Council,Farming,Primary,Open
+MASHONALAND WEST,Chegutu,Beersheba - 100051 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Chegutu,Beersheba  Clinic,Beersheba - 100051 - Clinic,HH3yCEiwd64,ZW040187,ZW04,,,Rural,,
+MASHONALAND EAST,Seke,Beatrice - 100049 - Rural Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Beatrice Rural Hospital,Beatrice - 100049 - Rural Hospital,v41G3HJvF4A,ZW03090A,ZW03,,Government,Rural,Hospital,Active
+HARARE,Chitungwiza,St. Mary's - 101633 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Harare,St Mary's Clinic,St. Mary's - 101633 - Clinic,e4XyXFEL7Rj,ZW000B03,ZW00,,Town/City Council,Urban,Primary,Open
+MATEBELELAND SOUTH,Matobo,Bazha - 100048 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Bazha Mission Clinic,Bazha - 100048 - Clinic,B5YF4fUJEVU,ZW060592,ZW06,,Mission,Rural,,
+MASHONALAND CENTRAL,Mazowe,Bare - 100046 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,BARE,Bare - 100046 - Clinic,fqe4Y8QrsNH,ZW020425,ZW02,,Council,Rural,Primary,Open
+MASHONALAND WEST,Zvimba,Banket - 100044 - District Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Banket District Hospital,Banket - 100044 - District Hospital,kyFYqZ69z50,ZW04070A,ZW04,,Government,Urban,Secondary,TOWN
+MANICALAND,Buhera,Bangure - 100043 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Buhera,Bangure,Bangure - 100043 - Clinic,fSJy9rjmBSB,ZW010125,ZW01,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Mangwe,Bango - 100042 - Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Mangwe,Bango Rural Health Centre,Bango - 100042 - Clinic,vNLrnKgUtPc,ZW060709,ZW06,,Government,Rural,,
+MASHONALAND CENTRAL,Mt Darwin,Bandimba - 100040 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mt Darwin,BANDIMBA,Bandimba - 100040 - Rural Health Centre,aUsp0RPHrgn,ZW020533,ZW02,,COUNCIL,Rural,Primary,Open
+MATEBELELAND NORTH,Bubi,Balanda - 100037 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Balanda Clinic,Balanda - 100037 - Rural Health Centre,ED5aIDufB5W,ZW050227,ZW05,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Insiza,Avoca - 100029 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Avoca Rural Hospital,Avoca - 100029 - Rural Hospital,qmtMQzRoH0H,ZW06040C,ZW06,,Government,Rural,,
+MANICALAND,Makoni,Anorldine - 100012 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Arnoldine Mission Clinic,Anorldine - 100012 - Clinic,ZP6AUxsoZDz,ZW010492,ZW01,,Mission,Rural,Primary ,Open
+MASHONALAND CENTRAL,Mazowe,Ardura - 100025 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,ARDURA,Ardura - 100025 - Rural Health Centre,MmC3bTl8MQA,ZW020408,ZW02,,Council,Farming,Primary,Open
+MASHONALAND CENTRAL,Mbire,Angwa - 100010 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Mbire,Angwa Clinic,Angwa - 100010 - Clinic,KiFPKW2LoT4,ZW020821,ZW02,,Rural Council,Rural,Primary,Open
+MATEBELELAND SOUTH,Insiza,Amazon Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Amazon Clinic,Amazon Clinic,WX4iuiyQmwV,ZW060430,ZW06,,Mission,Rural,,
+MIDLANDS,Kwekwe,Amaveni - 100008 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Amaveni Clinic,Amaveni - 100008 - Clinic,IJFe4swzr4G,ZW070561,ZW07,,Town/City Council,Urban,Primary,
+MASHONALAND WEST,Makonde,Alaska - 100005 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Makonde,Alaska Munic Clinic,Alaska - 100005 - Clinic,gJr4bpmVlAZ,ZW040463,ZW04,,Town/City Council,Peri-Urban,Primary,Open
+MIDLANDS,Kwekwe,Al Davies - 100004 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Al Davies Clinic,Al Davies - 100004 - Clinic,tnlz7dGBqL9,ZW070586,ZW07,,Town/City Council,Urban,Primary,
+MASHONALAND EAST,Seke,Acton Ronolds - 100002 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Seke,Acton Reynolds Rural Health Centre,Acton Ronolds - 100002 - Rural Health Centre,UtIHziKXtX0,ZW030901,ZW03,,Government,Rural,clinic,Active
+MANICALAND,Makoni,Chinyadza - 100239 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Chinyadza Clinic,,,98,,,,,,
+MANICALAND,Makoni,Chiome - 100246 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Chiome - 100246 - Clinic,,,101,,,,,,
+MANICALAND,Mutare,City Clinic - 100337 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,City Clinic,,,ZW010561,,,,,,
+MANICALAND,Chipinge,Gaza - 100498 - Council Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Gaza - 100498 - Council Clinic,,,206,,,,,,
+MANICALAND,Makoni,Mabvazuva - 0104102 - Council Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Mabvazuva - 0104102 - Council Clinic,,,334,,,,,,
+MANICALAND,Makoni,Matotwe - 100960 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Matotwe - 100960 - Clinic,,,391,,,,,,
+MANICALAND,Chipinge,Muswera - 101159 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Muswera - 101159 - Clinic,,,468,,,,,,
+MANICALAND,Mutasa,Old Mutare - 101397 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutasa,Old Mutare Mission Hospital,,,ZW01060C,ZW01,,,,,
+MANICALAND,Mutare,Sakubva Health Centre - 101511 - Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Sakubva Health Centre Hospital,,,ZW010564,,,,,,
+MANICALAND,Mutare,St. Welburgh - 101641 - Mission Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,St. Welburgh - 101641 - Mission Clinic,,,ZW010507,,,,,,
+MASHONALAND CENTRAL,Mazowe,Dandamera Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,Dandamera Clinic,,,148,,,,,,
+MASHONALAND EAST,Goromonzi,Domboshava - 100400 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Domboshava - 100400 - Clinic,,,165,,,,,,
+MASHONALAND EAST,Goromonzi,Ruwa - 101494 - Poly Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Goromonzi,Ruwa - 101494 - Poly Clinic,,,623,,,,,,
+MASVINGO,Gutu,Mukaro - 101093 - Mission Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Gutu,Mukaro - 101093 - Mission Clinic,,,ZW080493,ZW08,,,,,
+MATEBELELAND NORTH,Umguza,Bhekeni  100067  Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Bhekeni Rural Health Centre,,,21,,,,,,
+MATEBELELAND NORTH,Umguza,Bhumane Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Bhumane Clinic,,,22,,,,,,
+MATEBELELAND NORTH,Bubi,Bona Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Bona Clinic,,,32,,,,,,
+MATEBELELAND NORTH,Tsholotsho,Chefunye - 100152 - Council Clinic ,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Chefunye - 100152 - Council Clinic ,,,58,,,,,,
+Bulawayo,Bulawayo,Cowdry Park Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Cowdry Park Health Centre,,,142,,,,,,
+Bulawayo,Bulawayo,Emganwini Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,Emganwini Clinic,,,ZW090A65,,,,,,
+MATEBELELAND NORTH,Bubi,Famona Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Famona Clinic,,,184,,,,,,
+MATEBELELAND NORTH,Lupane,Fatima - 100464 - Clinic,PEPFAR,ZACH,ACTIVE,Health facility,Lupane,Fatima - 100464 - Clinic,,,187,,,,,,
+MATEBELELAND NORTH,Umguza,Fingo - 100469 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Fingo - 100469 - Clinic,,,188,,,,,,
+HARARE,Harare,Stoneridge,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Stoneridge,,,694,,,,,,
+MATEBELELAND SOUTH,Insiza,GSU Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,GSU Clinic,,,230,,,,,,
+MIDLANDS,Gweru,Impala Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Impala Clinic,,,270,,,,,,
+MATEBELELAND NORTH,Lupane,Kanyandavu - 100701 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Lupane,Kanyandavu - 100701 - Clinic,,,286,,,,,,
+MATEBELELAND NORTH,Tsholotsho,Kapane - 100705  Clinic ,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Kapane Clinic ,,,289,,,,,,
+HARARE,Harare,Sunningdale - 101657 - Satellite Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Sunningdale Clinic,Sunningdale - 101657 - Satellite Clinic,Vr63gV2X6vv,ZW000A37,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND NORTH,Bubi,Lukala - 100775 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Lukala - 100775 - Rural Health Centre,,,322,,,,,,
+MIDLANDS,Gweru,Maboleni - 100793 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Maboleni - 100793 - Clinic,,,332,,,,,,
+HARARE,Harare,Tafara - 101669 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Tafara FHS Clinic,Tafara - 101669 - Clinic,eScYy7KYs2U,ZW000A38,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND NORTH,Tsholotsho,Madlangombe  - 100809 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Madlangombe  - 100809 - Clinic,,,340,,,,,,
+MATEBELELAND SOUTH,Matobo,Mbembeswana - 100991 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Matobo,Mbembeswana - 100991 - Rural Health Centre,,,399,,,,,,
+HARARE,Harare,Warren Park - 101760 - Poly clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Warren Park PolyClinic,Warren Park - 101760 - Poly clinic,sA086jVRd7Z,ZW000A39,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND NORTH,Nkayi,Mdengelele,PEPFAR,ZACH,ACTIVE,Health facility,Nkayi,Mdengelele,,,405,,,,,,
+MIDLANDS,Kwekwe,Melisa Zhombe - 101009 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Kwekwe,Melisa Zhombe - 101009 - Clinic,,,408,,,,,,
+HARARE,Harare,Waterfalls - 101761 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,ha Waterfalls Clinic,Waterfalls - 101761 - Clinic,YsapFO7P1Qn,ZW000A41,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND NORTH,Tsholotsho,Mlagisa - 101026 - Rural Health centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Mlagisa - 101026 - Rural Health centre,,,417,,,,,,
+MATEBELELAND NORTH,Tsholotsho,Mtshayeli - 101074 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Mtshayeli - 101074 - Clinic,,,435,,,,,,
+MASVINGO,Mwenezi,Mulelezi - 101104 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Mwenezi,Mulelezi - 101104 - Clinic,,,ZW080630,ZW08,,,,,
+MANICALAND,Mutare,Vumba - 101748 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Mutare,Vumba - 101748 - Clinic,,,ZW010515,,,,,,
+MATEBELELAND NORTH,Tsholotsho,NGAMO CLINIC,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,NGAMO CLINIC,,,500,,,,,,
+MASHONALAND WEST,Zvimba,Nyabika - 101307 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Zvimba,Nyabika - 101307 - Council Clinic,,,523,,,,,,
+HARARE,Harare,Western Triangle Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Western Triangle Clinic,Western Triangle Clinic,AvzEH5UhMeW,ZW000A42,ZW00,,Town/City Council,Urban,Primary,
+MATEBELELAND NORTH,Bubi,Raafs - 101436 - Rural Health Centre,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Bubi,Raafs - 101436 - Rural Health Centre,,,593,,,,,,
+MATEBELELAND NORTH,Umguza,Redwood - 101447 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Umguza,Redwood - 101447 - Clinic,,,599,,,,,,
+MIDLANDS,Gweru,Riverdale Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Gweru,Riverdale Clinic,,,604,,,,,,
+MASVINGO,Masvingo,Runyararo - 101473 - Clinic,PEPFAR,JF kapnek,ACTIVE,Health facility,Masvingo,Runyararo - 101473 - Clinic,,,612,,,,,,
+MATEBELELAND SOUTH,Gwanda,Sengwezani - 101540 - Rural Health Centre,PEPFAR,OPHID,ACTIVE,Health facility,Gwanda,Sengwezani - 101540 - Rural Health Centre,,,642,,,,,,
+MATEBELELAND NORTH,Tsholotsho,Shaba - 101546 - Council Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Tsholotsho,Shaba - 101546 - Council Clinic,,,643,,,,,,
+MASHONALAND WEST,Chegutu,Shamrock - 101551 - Clinic ,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Chegutu,Shamrock - 101551 - Clinic ,,,646,,,,,,
+HARARE,Harare,Wilkins Infectious Disease Hospital - 101775 - Infectious Disease Hospital,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Harare,Wilkins Infectious Disease Hospital,Wilkins Infectious Disease Hospital - 101775 - Infectious Disease Hospital,HRaxyjNZcaJ,ZW000A0D,ZW00,,Town/City Council,Urban,,
+HARARE,Chitungwiza,Zengeza Clinic - 100305 - Council Clinic,PEPFAR,OPHID,ACTIVE,Health facility,Harare,Zengeza Clinic,Zengeza Clinic - 100305 - Council Clinic,dgPACqSJZIT,ZW000B04,ZW00,,Town/City Council,Urban,Primary,Open
+Bulawayo,Bulawayo,United Bulawayo Hospital - 101723 - Central Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Bulawayo,United Bulawayo Hospital - 101723 - Central Hospital,,,724,,,,,,
+MATEBELELAND NORTH,Nkayi,Vova - 101917 - Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Nkayi,Vova - 101917 - Clinic,,,729,,,,,,
+MATEBELELAND SOUTH,Insiza,Wanezi - 101757 - Rural Hospital,PEPFAR,OPHID,ACTIVE,Health facility,Insiza,Wanezi - 101757 - Rural Hospital,,,735,,,,,,
+MASHONALAND CENTRAL,Mazowe,ZPS Mazowe Prison Clinic,PEPFAR,Zim-TTECH,ACTIVE,Health facility,Mazowe,ZPS Mazowe Prison Clinic,,,771,,,,,,
+MANICALAND,Chipinge,Chikore - 100191 - Mission Hospital,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Chikore Mission Hospital,,,ZW01030B,,,,,,
+MANICALAND,Chimanimani,Changazi - 100133 - Rural Health Centre,Non-PEPFAR,ZHI,ACTIVE,Health facility,Chimanimani,Changazi Rural Health Centre,,,ZW010319,,,,,,
+MANICALAND,Chipinge,Gwenzi - 100570 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Chipinge,Gwenzi Clinic,,,ZW010390,,,,,,
+MANICALAND,Makoni,Chinhenga - 100231 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Chinhenga Rural Health Centre,,,ZW010403,,,,,,
+MANICALAND,Makoni,Chinyudze - 100245 - Rural Health Centre,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Chinyudze Rural Health Centre,,,ZW010406,,,,,,
+MANICALAND,Makoni,Matsika - 100962 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Matsika Clinic,,,ZW010430,,,,,,
+MANICALAND,Makoni,Mufusire - 101087 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Mufusire Clinic,,,ZW010439,,,,,,
+MANICALAND,Makoni,Headlands - 100587 - Clinic,PEPFAR,ZHI,ACTIVE,Health facility,Makoni,Headlands Clinic,,,ZW010440,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

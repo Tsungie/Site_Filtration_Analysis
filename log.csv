@@ -1,0 +1,6 @@
+Time File Processed,Province,District,Facility,Site Code,Database Name,Number of People Registered,Number of Patients Attended,Number of People in Art,Database size,First day EHR used,Last day EHR used,Facility with EPMS,DATIM File is extractable,CBS File is extractable,Comments
+23/02/2026 11:24:05,Bulawayo,Bulawayo,Cesshar,ZW090A49,/media/tsungie/simba/Q4/bulawayo/Ceshhar101025.sql,6705,12883,687,801.76,2022-08-22T08:41:14.511Z,2025-10-15T13:17:59.162,No,Yes,Yes,Database complete
+23/02/2026 11:24:49,,,,ZW090A0I,/media/tsungie/simba/Q4/bulawayo/cowdrayheathcentre151025.sql,13499,28380,422,1915.26,2023-08-09T23:40:10.214Z,2025-10-15T11:17:31.474,No,Yes,Yes,Database complete
+23/02/2026 11:26:45,Bulawayo,Bulawayo,Cowdray Park Clinic,ZW090A27,/media/tsungie/simba/Q4/bulawayo/cowdraypark151025.sql,55069,182194,4317,4404.21,2020-09-29T05:58:16.237Z,2025-10-15T10:16:07.549,No,Yes,Yes,Database complete
+23/02/2026 11:32:17,Bulawayo,Bulawayo,Dr Shennan Clinic,ZW090A14,/media/tsungie/simba/Q4/bulawayo/drshenan151025.sql,16844,66910,1487,2522.09,2020-10-18T05:59:05.242Z,2025-10-15T12:35:34.592,No,Yes,Yes,Database complete
+23/02/2026 11:35:14,,,,ZW090B0B,/media/tsungie/simba/Q4/bulawayo/ICH101025.sql,1246,3748,678,857.81,2025-04-10T09:30:51.618Z,2025-10-15T16:19:47.218,No,Yes,Yes,Database complete
