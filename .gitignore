@@ -1,0 +1,39 @@
+# ---------------------------------------------------
+# 1. Data Files (Ignore large data and logs)
+# ---------------------------------------------------
+# Ignore all feather files
+*.feather
+
+# Ignore all parquet files (if you ever switch)
+*.parquet
+
+# Ignore all CSV files (like your log.csv and any intermediate dumps)
+*.csv
+
+# ...EXCEPT for mapping_file.csv (Git WILL track this one)
+!mapping_file.csv
+
+
+# ---------------------------------------------------
+# 2. Python & Environments
+# ---------------------------------------------------
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (ignores the folder where your packages are installed)
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# ---------------------------------------------------
+# 3. OS Generated Files
+# ---------------------------------------------------
+.DS_Store
+Thumbs.db
